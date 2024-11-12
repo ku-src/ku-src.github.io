@@ -1,4 +1,5 @@
-# 01418332 - Information System Security (ความมั่นคงในระบบสารสนเทศ)
+# 01418332 - Information System Security
+### Pre-Requisite : Operating Systems (01418236)
 
 ### Lecturer
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์"))
