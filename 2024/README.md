@@ -18,6 +18,8 @@
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
+- Guest[s]
+	- TBA
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
