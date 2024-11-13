@@ -4,7 +4,7 @@
 - Operating Systems (01418236)
 
 ### **Lecturer**
-- [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์"))
+- [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://fb.me/maeklong)] [[X](https://x.com/maeklong)]
 	- Microsoft MVP (Most Valuable Professional) – Security
 	- Approved Volunteer – Center for Cyber Safe and Education
 	- Microsoft Certified Trainer (MCT)
