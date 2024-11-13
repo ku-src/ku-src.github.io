@@ -25,4 +25,5 @@
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
 - [Privileged Access Management for Dummies](https://delinea.com/resources/privileged-access-management-for-dummies-pdf)
+- [Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/help-and-resources/2024/07/proposed-guide-on-synthetic-data-generation)
 - [แนวทางการกำหนดคุณลักษณะความมั่นคงปลอดภัยไซเบอร์ให้แก่ข้อมูลหรือระบบสารสนเทศ พ.ศ. 2567](https://ratchakitcha.soc.go.th/documents/49824.pdf)
