@@ -23,6 +23,7 @@
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
+- [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
 - [Privileged Access Management for Dummies](https://delinea.com/resources/privileged-access-management-for-dummies-pdf)
 - [Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/help-and-resources/2024/07/proposed-guide-on-synthetic-data-generation)
