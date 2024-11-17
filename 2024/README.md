@@ -18,11 +18,11 @@
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
-- Guest[s]
+- **Guest[s]**
 	- TBA
 
-### Tool[s]
-	- [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
+### **Tool[s]**
+- [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
