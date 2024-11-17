@@ -1,6 +1,6 @@
 # Maykin's Course[s]
 
-+ [[2024](2024)] - [01418332 - Information System Security (ความมั่นคงในระบบสารสนเทศ))](2024)
++ [[2024](2024)] - [01418332 - Information Systems Security (ความมั่นคงในระบบสารสนเทศ))](2024)
 
 # More info.
 * [maykin@owasp.org](mailto:maykin@owasp.org), [maykin@ieee.org](mailto:maykin@ieee.org), [maykin@acm.org](mailto:maykin@acm.org)
