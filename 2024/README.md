@@ -18,7 +18,6 @@
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
-	- 
 - Guest[s]
 	- TBA
 
