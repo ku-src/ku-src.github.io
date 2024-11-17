@@ -1,4 +1,4 @@
-# 01418332 - Information System Security
+# 01418332 - Information Systems Security
 
 ### **Pre-Requisite**
 - Operating Systems (01418236)
