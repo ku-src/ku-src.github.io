@@ -23,6 +23,7 @@
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc), [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html)
+- [Cybersecurity Fundamentals by APNIC](https://academy.apnic.net/en/course/cybersecurity-fundamentals)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
 - [Privileged Access Management for Dummies](https://delinea.com/resources/privileged-access-management-for-dummies-pdf)
