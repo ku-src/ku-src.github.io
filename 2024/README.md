@@ -18,12 +18,13 @@
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
+	- 
 - Guest[s]
 	- TBA
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
-	- [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html)
+	- [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html) - 1MCC Partner Program
 - [Cybersecurity Fundamentals by APNIC](https://academy.apnic.net/en/course/cybersecurity-fundamentals)
 - [CyBOK v1.1](https://www.cybok.org/knowledgebase1_1/)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
