@@ -31,6 +31,7 @@
 - [Git](https://git-scm.com/downloads)
 	- [GitHub](https://github.com/signup)
 	- [Github Desktop](https://desktop.github.com/download/)
+- [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
