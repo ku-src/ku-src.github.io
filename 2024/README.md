@@ -24,6 +24,8 @@
 ### **Tool[s]**
 - [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
 	- [![Dropbox](files/dropbox-qr.png)](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
+- [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
+- [Visual Studio Code](https://code.visualstudio.com/download)
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
