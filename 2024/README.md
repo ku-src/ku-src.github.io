@@ -28,6 +28,9 @@
 	- [JDK](https://www.oracle.com/java/technologies/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 	- [Python](https://www.python.org/downloads/)
+- [Git](https://git-scm.com/downloads)
+	- [GitHub](https://github.com/signup)
+	- [Github Desktop](https://desktop.github.com/download/)
 
 ### **Self Study**
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
