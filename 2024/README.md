@@ -3,6 +3,13 @@
 ### **Pre-Requisite**
 - Operating Systems (01418236)
 
+### **Room**
+- 17304
+
+### **Time**
+- 09:00 - 12:00
+- 13:00 - 16:00
+
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
 	- Microsoft MVP (Most Valuable Professional) – Security
