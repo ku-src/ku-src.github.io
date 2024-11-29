@@ -54,3 +54,4 @@
 - [แนวทางการกำหนดคุณลักษณะความมั่นคงปลอดภัยไซเบอร์ให้แก่ข้อมูลหรือระบบสารสนเทศ พ.ศ. 2567](https://ratchakitcha.soc.go.th/documents/49824.pdf)
 - [SonarSource static code analysis](https://rules.sonarsource.com/)
 - [Browser automation challenges](https://youtube.com/watch?v=iZMvB3WNMPw)
+- [Free Linux Foundation Courses for Cybersecurity Beginners](https://www.isc2.org/Insights/2024/07/Free-Linux-Foundation-Courses-for-Cybersecurity-Beginners)
