@@ -5,6 +5,7 @@
 
 ### **Room**
 - 17304
+- [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 ### **Time**
 - 09:00 - 12:00
