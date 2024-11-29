@@ -1,7 +1,7 @@
-# 01418332 - Information Systems Security
+# 01418332 - Information System Security
 
 ### **Pre-Requisite**
-- Operating Systems (01418236)
+- Operating System (01418236)
 
 ### **Room**
 - #17304, [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
