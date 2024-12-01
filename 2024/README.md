@@ -12,8 +12,7 @@
 - [https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 ### **Time**
-- 09:00 - 12:00
-- 13:00 - 16:00
+- 09:00 - 12:00 & 13:00 - 16:00
 
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
