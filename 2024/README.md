@@ -3,8 +3,11 @@
 ### **Pre-Requisite**
 - Operating System (01418236)
 
-### **Room**
-- #17304, [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
+### **Hybrid Class**
+- #17304 & [Zoom](https://www.zoom.com/)
+
+### **Google Classroom**
+- [https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 ### **Time**
 - 09:00 - 12:00
