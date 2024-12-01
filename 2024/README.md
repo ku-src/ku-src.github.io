@@ -4,12 +4,9 @@
 - Operating System (01418236)
 
 ### **Hybrid Class**
-- #17304 & [Zoom](https://www.zoom.com/)
+- #17304, [Zoom](https://www.zoom.com/) & [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 	[![Room #17304](img/room-17304.png)](#)
-
-### **Google Classroom**
-- [https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 ### **Time**
 - 09:00 - 12:00 & 13:00 - 16:00
