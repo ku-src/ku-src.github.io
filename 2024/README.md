@@ -6,6 +6,8 @@
 ### **Hybrid Class**
 - #17304 & [Zoom](https://www.zoom.com/)
 
+	[![Room #17304](img/room-17304.png)](#)
+
 ### **Google Classroom**
 - [https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
@@ -33,7 +35,9 @@
 
 ### **Tool[s]**
 - [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
-	- [![Dropbox](files/dropbox-qr.png)](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
+	
+	[![Dropbox](files/dropbox-qr.png)](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
+
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
 	- [JDK](https://www.oracle.com/java/technologies/downloads/)
 - [Visual Studio Code](https://code.visualstudio.com/download)
