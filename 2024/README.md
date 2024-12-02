@@ -59,6 +59,7 @@
 - [SonarSource static code analysis](https://rules.sonarsource.com/)
 - [Browser automation challenges](https://youtube.com/watch?v=iZMvB3WNMPw)
 - [Free Linux Foundation Courses for Cybersecurity Beginners](https://www.isc2.org/Insights/2024/07/Free-Linux-Foundation-Courses-for-Cybersecurity-Beginners)
+- [Windows 11 Security Book](https://learn.microsoft.com/en-gb/windows/security/book/)
 
 ### **Assignments**
 - Vocab(s) : 
