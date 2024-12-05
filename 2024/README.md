@@ -36,6 +36,9 @@
 
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
 	- [JDK](https://www.oracle.com/java/technologies/downloads/)
+- [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads)
+- [PuTTY](https://www.chiark.greenend.org.uk/~sgtatham/putty/latest.html)
+- [WinSCP](https://winscp.net/eng/download.php)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 	- [Python](https://www.python.org/downloads/)
 - [Git](https://git-scm.com/downloads)
