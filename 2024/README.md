@@ -35,9 +35,6 @@
 
 ### **Tool[s]**
 - [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
-	
-	[![Dropbox](files/dropbox-qr.png)](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
-
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
 	- [JDK](https://www.oracle.com/java/technologies/downloads/)
 - [Oracle Virtual Box](https://www.virtualbox.org/wiki/Downloads)
