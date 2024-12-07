@@ -11,6 +11,10 @@
 ### **Time**
 - 09:00 - 12:00 & 13:00 - 16:00
 
+### **Date**
+- Nov 30 (AM, PM)
+- Dec 7 (AM, 1st half & 2nd half)
+
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
 	- Microsoft MVP (Most Valuable Professional) – Security
