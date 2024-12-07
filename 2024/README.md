@@ -13,7 +13,7 @@
 
 ### **Date**
 - Nov 30 (AM, PM)
-- Dec 7 (AM, 1st half & 2nd half)
+- Dec 7 (AM, [1st half](https://youtu.be/OwMqDKqsQ1Q) & 2nd half)
 
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
