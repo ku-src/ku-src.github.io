@@ -4,7 +4,7 @@
 - Operating System (01418236)
 
 ### **Hybrid Class**
-- #17304, [Zoom](https://www.zoom.com/) & [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
+- #17304, [Google Meet](https://meet.google.com/) & [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
 	[![Room #17304](img/room-17304.png)](#)
 
