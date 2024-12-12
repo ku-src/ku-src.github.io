@@ -64,9 +64,11 @@
 - [Browser automation challenges](https://youtube.com/watch?v=iZMvB3WNMPw)
 - [Free Linux Foundation Courses for Cybersecurity Beginners](https://www.isc2.org/Insights/2024/07/Free-Linux-Foundation-Courses-for-Cybersecurity-Beginners)
 - [Windows 11 Security Book](https://learn.microsoft.com/en-gb/windows/security/book/)
+- [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 
 ### **Assignments**
 - Vocab(s) : 
 [A](#), 
 [B](#),
 [C](#),
+[D](#)
