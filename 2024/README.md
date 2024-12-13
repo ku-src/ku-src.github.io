@@ -60,6 +60,7 @@
 - [Privileged Access Management for Dummies](https://delinea.com/resources/privileged-access-management-for-dummies-pdf)
 - [Proposed Guide on Synthetic Data Generation](https://www.pdpc.gov.sg/help-and-resources/2024/07/proposed-guide-on-synthetic-data-generation)
 - [แนวทางการกำหนดคุณลักษณะความมั่นคงปลอดภัยไซเบอร์ให้แก่ข้อมูลหรือระบบสารสนเทศ พ.ศ. 2567](https://ratchakitcha.soc.go.th/documents/49824.pdf)
+- [7 Day Free Trial: Secure the Code with SANS Security Awareness Developer Training](https://www.sans.org/mlp/ssa-trial-request-developer/)
 - [SonarSource static code analysis](https://rules.sonarsource.com/)
 - [Browser automation challenges](https://youtube.com/watch?v=iZMvB3WNMPw)
 - [Free Linux Foundation Courses for Cybersecurity Beginners](https://www.isc2.org/Insights/2024/07/Free-Linux-Foundation-Courses-for-Cybersecurity-Beginners)
@@ -68,7 +69,7 @@
 
 ### **Assignments**
 - Vocab(s) : 
-[A](#), 
+[A](#),
 [B](#),
 [C](#),
 [D](#)
