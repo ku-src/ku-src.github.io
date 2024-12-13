@@ -13,6 +13,9 @@
 
 ### **Date**
 - Nov 30 (AM, PM)
+
+[![(img/2024-11-30_Session1-2.jpg)](#)
+
 - Dec 7 (AM, [1st half](https://youtu.be/OwMqDKqsQ1Q) & [2nd half](https://youtu.be/qUCJg7BNLzw))
 
 ### **Lecturer**
