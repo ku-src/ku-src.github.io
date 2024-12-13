@@ -12,7 +12,7 @@
 - 09:00 - 12:00 & 13:00 - 16:00
 
 ### **Date**
-- **Session 1 & 2** on **Nov 30** (AM, PM)
+- **Session 1** & **2** on **Nov 30** (AM, PM)
 
 	[![Session 1 & 2](img/2024-11-30_Session1-2.jpg)](#)
 
