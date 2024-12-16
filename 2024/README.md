@@ -74,7 +74,7 @@
 
 ### **Assignments**
 - Merry Christmas Happy New Year : 
-[Nakorn T.](https://taedate.github.io/Marry-Christmas),
+[Nakorn Thungprapaporn](https://taedate.github.io/Marry-Christmas),
 [B](#),
 [C](#),
 [D](#)
