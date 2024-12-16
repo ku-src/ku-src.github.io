@@ -73,8 +73,8 @@
 - [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 
 ### **Assignments**
-- Vocab(s) : 
-[A](#),
+- Merry Christmas Happy New Year : 
+[Nakorn T.](https://taedate.github.io/Marry-Christmas),
 [B](#),
 [C](#),
 [D](#)
