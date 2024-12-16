@@ -18,6 +18,7 @@
 
 - **Session 3** on **Dec 7** (AM: [1st half](https://youtu.be/OwMqDKqsQ1Q) & [2nd half](https://youtu.be/qUCJg7BNLzw)) via Google Meet
 - **Linux Skill** on **Dec 14** ([https://youtu.be/-iJUbxfYSeo](https://youtu.be/-iJUbxfYSeo)) via Google Meet
+- **ISC2 Badge** on **Dec 16 Evening** ([https://youtu.be/3DhcvUfnTvI](https://youtu.be/3DhcvUfnTvI)) via Google Meet
 
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
