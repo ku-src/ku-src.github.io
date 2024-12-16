@@ -77,6 +77,6 @@
 ### **Assignments**
 - Merry Christmas & Happy New Year (Steganography)
 	- [Nakorn Thungprapaporn](https://taedate.github.io/Marry-Christmas),
-	[B](#),
+	[Kanokwan Riamsri](https://aomknw.github.io/e-card),
 	[C](#),
 	[D](#)
