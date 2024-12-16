@@ -1,4 +1,4 @@
-# Maykin's Course[s]
+# Maykin Warasart's Course[s]
 
 + [[2024](2024)] - [01418332 - Information System Security (ความมั่นคงในระบบสารสนเทศ)](2024)
 
