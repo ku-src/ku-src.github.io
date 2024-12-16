@@ -73,7 +73,7 @@
 - [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 
 ### **Assignments**
-- Merry Christmas & Happy New Year
+- Merry Christmas & Happy New Year (Steganography)
 	- [Nakorn Thungprapaporn](https://taedate.github.io/Marry-Christmas),
 	[B](#),
 	[C](#),
