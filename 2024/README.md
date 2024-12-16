@@ -20,6 +20,7 @@
 - (Sat) **Dec 14**, 2024 - **Linux Skill** ([**link**](https://youtu.be/-iJUbxfYSeo)) via Google Meet
 - (Mon) **Dec 16**, 2024 (Evening) - **ISC2 Badge** ([**link**](https://youtu.be/3DhcvUfnTvI)) via Google Meet
 - (Sat) **Dec 21**, 2024 (AM, PM) - **Session 4** & **5**
+- (Sat) **Dec 28**, 2024 - **Session 6**
 
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
