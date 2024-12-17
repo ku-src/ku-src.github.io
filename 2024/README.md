@@ -61,7 +61,7 @@
 - [Cybersecurity Fundamentals by APNIC](https://academy.apnic.net/en/course/cybersecurity-fundamentals)
 	- [PGP Lab (File and Email Security)](https://academy.apnic.net/en/virtual-labs?labId=96763)
 - [CyBOK v1.1](https://www.cybok.org/knowledgebase1_1/)
-- [SP 800-57 Part 1 Rev. 5 - Recommendation for Key Management: Part 1 – General](https://csrc.nist.rip/publications/detail/sp/800-57-part-1/rev-5/final)
+- NIST - [SP 800-57 Part 1 Rev. 5 - Recommendation for Key Management: Part 1 – General](https://csrc.nist.rip/publications/detail/sp/800-57-part-1/rev-5/final)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
 - [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
