@@ -230,6 +230,8 @@ Witphon I.
 	[Thatthep Sataranaporn](https://bastackle.github.io/ecard),
 	[Siravet Nijnirundkul](https://9siravet.github.io/e-card_christmas),
 	[Wichitchai Sapsanoi](https://6530200452.github.io/christmas),
-	[Purinut EKPONGPRADIT](https://6530200762.github.io/e-card)
+	[Purinut EKPONGPRADIT](https://6530200762.github.io/e-card),
+	[Manatsawee Piyasopasakul](https://manatsawee-pi.github.io/e-card),
+	[Chonlasit Kijkulpichet](https://6530200088.github.io/ecardChristmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
