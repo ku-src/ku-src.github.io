@@ -242,6 +242,7 @@ Witphon I.
 	[Kemikha Chan-Ngam](https://kemikha01.github.io/e-card-Christmas),
 	[Pattralada POBTEEPHUENG](https://skyandz.github.io/e-card),
 	[Onnicha Srisaman](https://momojoj.github.io/e-card),
-	[Panissara Boonparkorb](https://panissaraaa.github.io/E-Card)
+	[Panissara Boonparkorb](https://panissaraaa.github.io/E-Card),
+	[Pariyakorn Kullama](https://tintin1906.github.io/Christmas&NewYear_card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
