@@ -46,11 +46,11 @@
 
 ---
 
-	Alice,
-	Bob,
-	Craig,
-	Dave,
-	Eve
+Alice,
+Bob,
+Craig,
+Dave,
+Eve
 
 ---
 
