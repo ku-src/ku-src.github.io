@@ -207,6 +207,7 @@ Witphon I.
 - [CyBOK v1.1](https://www.cybok.org/knowledgebase1_1/)
 - NIST - [SP 800-57 Part 1 Rev. 5 - Recommendation for Key Management: Part 1 – General](https://csrc.nist.rip/publications/detail/sp/800-57-part-1/rev-5/final)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
+- [The Intelligence Handbook](https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition)
 - [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
 - [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
