@@ -11,6 +11,7 @@
 ### **Time**
 - 09:00 - 12:00 & 13:00 - 16:00
 
+<a name="classes"></a>
 ### **Classes**
 - (Sat) **Nov 30**, 2024 (AM, PM) - **Session 1** & **2**
 
@@ -22,6 +23,7 @@
 - (Sat) **Dec 21**, 2024 (AM, PM) - **Session 4** & **5**
 - (Sat) **Dec 28**, 2024 - **Session 6**
 
+<a name="lecturer"></a>
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
 	- Microsoft MVP (Most Valuable Professional) – Security
@@ -40,6 +42,7 @@
 - **Guest[s]**
 	- TBA
 
+<a name="tools"></a>
 ### **Tool[s]**
 - [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
 - [Apache NetBeans](https://netbeans.apache.org/front/main/index.html)
@@ -54,6 +57,7 @@
 	- [Github Desktop](https://desktop.github.com/download/)
 - [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 
+<a name="self-study"></a>
 ### **Self Study**
 - [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
