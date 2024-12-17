@@ -44,11 +44,15 @@
 
 ### **Students**
 
-		Alice, 
-		Bob, 
-		Craig, 
-		Dave, 
-		Eve
+---
+
+	Alice,
+	Bob,
+	Craig,
+	Dave,
+	Eve
+
+---
 
 <a name="tools"></a>
 ### **Tool[s]**
