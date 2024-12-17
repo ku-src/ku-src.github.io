@@ -42,6 +42,13 @@
 - **Guest[s]**
 	- TBA
 
+### **Students**
+
+	Alice,
+	Bob,
+	Craig,
+	Dave
+
 <a name="tools"></a>
 ### **Tool[s]**
 - [Dropbox](https://www.dropbox.com/referrals/AAC27q3e2sUydWpK3ig_PwLaCr8LjjVCZzI?src=global9)
