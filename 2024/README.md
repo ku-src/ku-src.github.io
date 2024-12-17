@@ -59,6 +59,7 @@
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
 	- [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html) - [1MCC](https://www.isc2.org/landing/1mcc) Partner Program
 - [Cybersecurity Fundamentals by APNIC](https://academy.apnic.net/en/course/cybersecurity-fundamentals)
+	- [PGP Lab (File and Email Security)](https://academy.apnic.net/en/virtual-labs?labId=96763)
 - [CyBOK v1.1](https://www.cybok.org/knowledgebase1_1/)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
