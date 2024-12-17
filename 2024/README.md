@@ -44,10 +44,10 @@
 
 ### **Students**
 
-	Alice,
-	Bob,
-	Craig,
-	Dave
+		Alice, 
+		Bob, 
+		Craig, 
+		Dave
 
 <a name="tools"></a>
 ### **Tool[s]**
