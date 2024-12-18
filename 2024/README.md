@@ -192,6 +192,7 @@ Wilit K.,
 	- [WinSCP](https://winscp.net/eng/download.php)
 - [Visual Studio Code](https://code.visualstudio.com/download)
 	- [Python](https://www.python.org/downloads/)
+- [Gpg4win](https://www.gpg4win.org/)
 - [Git](https://git-scm.com/downloads)
 	- [GitHub](https://github.com/signup)
 	- [Github Desktop](https://desktop.github.com/download/)
