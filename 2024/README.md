@@ -91,7 +91,7 @@ Nonpawit S.,
 Nontawat P.,
 Nutparit S.,
 [Onnicha S.](https://momojoj.github.io/),
-Panisara W.,
+[Panisara W.](https://6530200274.github.io/),
 [Panissara B.](https://panissaraaa.github.io/),
 Panissara P.,
 [Panita Y.](https://panita18.github.io/),
@@ -248,6 +248,7 @@ Wilit K.,
 	[Supawadee MUANGPRASERT](https://donyweasley.github.io/newyear-ecard2025),
 	[Chitlada Prasroetsang](https://dreamchitlada.github.io/e-card),
 	[Habibah Masae](https://chocokorn.github.io/ecardchristmas),
-	[Kitchakan Sripaeng](https://t2lxddd.github.io/ecard)
+	[Kitchakan Sripaeng](https://t2lxddd.github.io/ecard),
+	[Panisara Wijarn](https://6530200274.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
