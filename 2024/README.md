@@ -243,6 +243,7 @@ Witphon I.
 	[Pattralada POBTEEPHUENG](https://skyandz.github.io/e-card),
 	[Onnicha Srisaman](https://momojoj.github.io/e-card),
 	[Panissara Boonparkorb](https://panissaraaa.github.io/E-Card),
-	[Pariyakorn Kullama](https://tintin1906.github.io/Christmas&NewYear_card)
+	[Pariyakorn Kullama](https://tintin1906.github.io/Christmas&NewYear_card),
+	[Supawadee MUANGPRASERT](https://donyweasley.github.io/newyear-ecard2025)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
