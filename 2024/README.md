@@ -100,7 +100,7 @@ Panissara P.,
 Panyawat L.,
 [Pariyakorn K.](https://tintin1906.github.io/),
 [Pasin H.](https://mater3214.github.io/),
-Patitta K.,
+[Patitta K.](https://6430200442.github.io/),
 [Pattarapa T.](https://6530250140.github.io/),
 Pattaravut S.,
 [Pattralada P.](https://skyandz.github.io/),
@@ -265,6 +265,7 @@ Watcharaphon N.,
 	[Thossaphol Makpeam](https://thossaphol2204.github.io/Ecard),
 	[Manitchaya Benjardsiri](https://manitchaya2004.github.io/ECARD),
 	[Panumas Chatthaisong](https://panumastt1.github.io/christmas),
-	[Pasin Harnkham](https://mater3214.github.io/Christmasday)
+	[Pasin Harnkham](https://mater3214.github.io/Christmasday),
+	[Patitta Klinhom](https://6430200442.github.io/NewYearCard)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
