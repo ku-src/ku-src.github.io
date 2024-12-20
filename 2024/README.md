@@ -95,7 +95,7 @@ Nutparit S.,
 [Panissara B.](https://panissaraaa.github.io/),
 Panissara P.,
 [Panita Y.](https://panita18.github.io/),
-Panumas C.,
+[Panumas C.](https://panumastt1.github.io/),
 [Panupong T.](https://6530200339.github.io/),
 Panyawat L.,
 [Pariyakorn K.](https://tintin1906.github.io/),
@@ -263,6 +263,7 @@ Watcharaphon N.,
 	[Tippawan Ngobkratok](https://jis03.github.io/ecard),
 	[Wilit Kronkulsri](https://6530200461.github.io/e-card),
 	[Thossaphol Makpeam](https://thossaphol2204.github.io/Ecard),
-	[Manitchaya Benjardsiri](https://manitchaya2004.github.io/ECARD)
+	[Manitchaya Benjardsiri](https://manitchaya2004.github.io/ECARD),
+	[Panumas Chatthaisong](https://panumastt1.github.io/christmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
