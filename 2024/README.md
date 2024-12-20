@@ -241,7 +241,7 @@ Wilit K.,
 	[Naphop Khumchawna](https://nutnaphop.github.io/e-card-hny),
 	[Sittikorn Pratomwan](https://6530200525.github.io/happyny),
 	[Kemikha Chan-Ngam](https://kemikha01.github.io/e-card-Christmas),
-	[Pattralada POBTEEPHUENG](https://skyandz.github.io/e-card),
+	[Pattralada Pobteephueng](https://skyandz.github.io/e-card),
 	[Onnicha Srisaman](https://momojoj.github.io/e-card),
 	[Panissara Boonprakorb](https://panissaraaa.github.io/E-Card),
 	[Pariyakorn Kullama](https://tintin1906.github.io/Christmas&NewYear_card),
@@ -258,6 +258,7 @@ Wilit K.,
 	[Ponyakorn Srinuchart](https://ponyakorn.github.io/christmas),
 	[Tep-amorn Singkornkiew](https://tepamorn.github.io/e-card),
 	[Chonnikarn Sangwang](https://nixe97.github.io/HappyNewyear),
-	[Warisara Yaemma](https://wariisara.github.io/e-card)
+	[Warisara Yaemma](https://wariisara.github.io/e-card),
+	[Thanabordee Boonsook](https://realalunda.github.io/E-Card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
