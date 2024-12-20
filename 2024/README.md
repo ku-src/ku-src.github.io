@@ -154,7 +154,7 @@ Suprachai K.,
 [Surachat K.](https://srchx.github.io/),
 Suraphak A.,
 [Tanapon Y.](https://jabjibi.github.io/),
-Tanate W.,
+[Tanate W.](https://huggies2003.github.io/),
 Tanatorn J.,
 [Teerakorn T.](https://teerakorn47.github.io/),
 [Tep-amorn S.](https://tepamorn.github.io/,
@@ -268,6 +268,7 @@ Watcharaphon N.,
 	[Pasin Harnkham](https://mater3214.github.io/Christmasday),
 	[Patitta Klinhom](https://6430200442.github.io/NewYearCard),
 	[Satintree Petsuvun](https://qwwwwioza.github.io/christmas),
-	[Siraphop Chootong](https://nmpsz.github.io/Ecard)
+	[Siraphop Chootong](https://nmpsz.github.io/Ecard),
+	[Tanate Wanitchakorn](https://huggies2003.github.io/christmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
