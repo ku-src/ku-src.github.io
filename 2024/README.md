@@ -177,8 +177,8 @@ Watcharakorn R.,
 Watcharaphon N.,
 [Wichitchai S.](https://6530200452.github.io/),
 [Wilaiphan K.](https://wilaiphan.github.io/),
-Wilit K.,
-[Witphon I](https://witchapolinaksorn.github.io/).
+[Wilit K.](https://6530200461.github.io/),
+[Witphon I](https://witchapolinaksorn.github.io/)
 
 ---
 
@@ -260,6 +260,7 @@ Wilit K.,
 	[Chonnikarn Sangwang](https://nixe97.github.io/HappyNewyear),
 	[Warisara Yaemma](https://wariisara.github.io/e-card),
 	[Thanabordee Boonsook](https://realalunda.github.io/E-Card),
-	[Tippawan Ngobkratok](https://jis03.github.io/ecard)
+	[Tippawan Ngobkratok](https://jis03.github.io/ecard),
+	[Wilit Kronkulsri](https://6530200461.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
