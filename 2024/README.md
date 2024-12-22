@@ -273,6 +273,7 @@ Watcharaphon N.,
 	[Teerakorn Tungwattanakit](https://teerakorn47.github.io/e-card),
 	[Vorapol Boonrasri](https://vorxp.github.io/NewYearCard),
 	[Chayapol Jitnaphets](https://copyyu.github.io/ECARD),
-	[Hannarong Supapun](https://deldel-p.github.io/merrychristmas)
+	[Hannarong Supapun](https://deldel-p.github.io/merrychristmas),
+	[Jakapob Siwakulrangsun](https://ioosck4.github.io/newyear_card2025)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
