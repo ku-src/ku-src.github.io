@@ -21,6 +21,9 @@
 - (Sat) **Dec 14**, 2024 - **Linux Skill** ([**link**](https://youtu.be/-iJUbxfYSeo)) via Google Meet
 - (Mon) **Dec 16**, 2024 (Evening) - **ISC2 Badge** ([**link**](https://youtu.be/3DhcvUfnTvI)) via Google Meet
 - (Sat) **Dec 21**, 2024 (AM, PM) - **Session 4** & **5**
+
+	[![Session 1 & 2](img/2024-12-21_Session4-5.png)](https://www.facebook.com/maeklong/posts/10231938980311265)
+
 - (Sat) **Dec 28**, 2024 - **Session 6**
 
 <a name="lecturer"></a>
