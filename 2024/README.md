@@ -76,7 +76,7 @@ Kittamaet R.,
 Klittima C.,
 Kongsiri P.,
 [Krit C.](https://6530250000.github.io/),
-Krittiphon Y.,
+[Krittiphon Y.](https://1dev04.github.io/),
 [Manatsawee P.](https://manatsawee-pi.github.io/),
 [Manitchaya B.](https://manitchaya2004.github.io/),
 [Nakorn T.](https://taedate.github.io/),
@@ -275,6 +275,9 @@ Watcharaphon N.,
 	[Chayapol Jitnaphets](https://copyyu.github.io/ECARD),
 	[Hannarong Supapun](https://deldel-p.github.io/merrychristmas),
 	[Jakapob Siwakulrangsun](https://ioosck4.github.io/newyear_card2025),
-	[Kiadtiyod Hongkin](https://professerswitch.github.io/chismas)
+	[Kiadtiyod Hongkin](https://professerswitch.github.io/chismas),
+	[Krittiphon Yoonaitham](https://1dev04.github.io/e-card),
+	[Natnicha Nontraudon](https://ohalic.github.io/e-card),
+	[Nattanun Kmoldejritta](https://tnattanun.github.io/Christmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
