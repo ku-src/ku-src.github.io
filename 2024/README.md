@@ -155,7 +155,7 @@ Suprachai K.,
 Suraphak A.,
 [Tanapon Y.](https://jabjibi.github.io/),
 [Tanate W.](https://huggies2003.github.io/),
-Tanatorn J.,
+[Tanatorn J.](https://6530200207.github.io/),
 [Teerakorn T.](https://teerakorn47.github.io/),
 [Tep-amorn S.](https://tepamorn.github.io/),
 [Thanabordee B.](https://realalunda.github.io/),
@@ -294,6 +294,7 @@ Watcharakorn R.,
 	[Tanapon Yurawan](https://jabjibi.github.io/e-card),
 	[Ratthakit Kotcharin](https://6530200401.github.io/e-card),
 	[Songwut Sudtalai](https://gunqeq.github.io/e-card),
-	[Sorravit MEEPHOL](https://sorravitmp.github.io/christmascard)
+	[Sorravit MEEPHOL](https://sorravitmp.github.io/christmascard),
+	[Tanatorn Jitsatsawan](https://6530200207.github.io/e-crad)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
