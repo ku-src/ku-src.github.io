@@ -84,7 +84,7 @@ Kongsiri P.,
 [Manitchaya B.](https://manitchaya2004.github.io/),
 [Nakorn T.](https://taedate.github.io/),
 [Naphop K.](https://nutnaphop.github.io/),
-Natchanan L.,
+[Natchanan L.](https://ncnld2547.github.io/),
 [Natnicha N.](https://ohalic.github.io/),
 [Nattanun K.](https://tnattanun.github.io/),
 Nattapat K.,
@@ -298,6 +298,7 @@ Watcharakorn R.,
 	[Ratthakit Kotcharin](https://6530200401.github.io/e-card),
 	[Songwut Sudtalai](https://gunqeq.github.io/e-card),
 	[Sorravit MEEPHOL](https://sorravitmp.github.io/christmascard),
-	[Tanatorn Jitsatsawan](https://6530200207.github.io/e-crad)
+	[Tanatorn Jitsatsawan](https://6530200207.github.io/e-crad),
+	[Natchanan Lordee](https://ncnld2547.github.io/christmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
