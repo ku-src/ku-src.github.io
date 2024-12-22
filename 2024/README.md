@@ -69,7 +69,7 @@ Kamolphop P.,
 [Kasidid Y.](https://kasidid-y.github.io/),
 Kasidit P.,
 [Kemikha C.](https://kemikha01.github.io/),
-Kiadtiyod H.,
+[Kiadtiyod H.](https://professerswitch.github.io/),
 [Kitchakan S.](https://t2lxddd.github.io/),
 Kittamaet R.,
 [Kittithorn T.](https://kitty340822.github.io/),
@@ -274,6 +274,7 @@ Watcharaphon N.,
 	[Vorapol Boonrasri](https://vorxp.github.io/NewYearCard),
 	[Chayapol Jitnaphets](https://copyyu.github.io/ECARD),
 	[Hannarong Supapun](https://deldel-p.github.io/merrychristmas),
-	[Jakapob Siwakulrangsun](https://ioosck4.github.io/newyear_card2025)
+	[Jakapob Siwakulrangsun](https://ioosck4.github.io/newyear_card2025),
+	[Kiadtiyod Hongkin](https://professerswitch.github.io/chismas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
