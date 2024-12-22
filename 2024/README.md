@@ -171,7 +171,7 @@ Thawanrat P.,
 [Tippawan N.](https://jis03.github.io/),
 Ukrit J.,
 [Valid N.](https://9jell.github.io/),
-Veeraya L.,
+[Veeraya L.](https://valin4637.github.io/),
 [Vorapol B.](https://vorxp.github.io/),
 Warakorn C.,
 [Warisara Y.](https://wariisara.github.io/),
@@ -299,6 +299,7 @@ Watcharakorn R.,
 	[Songwut Sudtalai](https://gunqeq.github.io/e-card),
 	[Sorravit MEEPHOL](https://sorravitmp.github.io/christmascard),
 	[Tanatorn Jitsatsawan](https://6530200207.github.io/e-crad),
-	[Natchanan Lordee](https://ncnld2547.github.io/christmas)
+	[Natchanan Lordee](https://ncnld2547.github.io/christmas),
+	[Veeraya Lekchaoum](https://valin4637.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
