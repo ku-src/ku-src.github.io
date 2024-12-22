@@ -114,7 +114,7 @@ Phetcharat T.,
 Phurin P.,
 [Phuriphat K.](https://prxsss.github.io/),
 Pichanat P.,
-Pichaya S.,
+[Pichaya S.](https://6530250158.github.io/),
 [Pisitchai W.](https://pisitchaiwongsopon.github.io/),
 Piyaphum M.,
 Pongpipat K.,
@@ -283,6 +283,7 @@ Watcharaphon N.,
 	[Nontawat Phunpuek](https://nontawatjgm.github.io/ecard),
 	[Panupong Thongchoed](https://6530200339.github.io/E-card),
 	[Pattarapa Thap-Amphan](https://6530250140.github.io/Hny),
-	[Peeramate Jukkasat](https://devpeeramate.github.io/e-card)
+	[Peeramate Jukkasat](https://devpeeramate.github.io/e-card),
+	[Pichaya Soising](https://6530250158.github.io/e_card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
