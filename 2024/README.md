@@ -117,7 +117,7 @@ Phetcharat T.,
 [Phrommin K.](https://phrommin.github.io/),
 [Phurin P.](https://teamgamer11.github.io/),
 [Phuriphat K.](https://prxsss.github.io/),
-Pichanat P.,
+[Pichanat P.](https://naieric.github.io/),
 [Pichaya S.](https://6530250158.github.io/),
 [Pisitchai W.](https://pisitchaiwongsopon.github.io/),
 Piyaphum M.,
@@ -317,6 +317,7 @@ Watcharakorn R.,
 	[Krit Chanthim](https://6530250000.github.io/marry),
 	[Ratchaneekorn Saykaeo](https://6430200566.github.io/newyearcard),
 	[Pruksakorn Saiweal](https://zozimboii.github.io/Christmas_&_New_Year_2025),
-	[Nattapat Klinkajorn](https://nantta.github.io/E-card-For-Christmas-&-New-Year-2025)
+	[Nattapat Klinkajorn](https://nantta.github.io/E-card-For-Christmas-&-New-Year-2025),
+	[Pichanat Prommanee](https://naieric.github.io/E-Card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
