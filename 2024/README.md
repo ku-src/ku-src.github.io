@@ -150,7 +150,7 @@ Sitthipong K.,
 [Songwut S.](https://gunqeq.github.io/),
 [Sorasit P.](https://bossmahob.github.io/),
 [Sorravit M.](https://sorravitmp.github.io/),
-Supakrit S.,
+[Supakrit S.](https://jekoflash.github.io/),
 [Supawadee M.](https://donyweasley.github.io/),
 [Suphattra P.](https://suphat00.github.io/),
 Supphanimit N.,
@@ -320,6 +320,7 @@ Watcharakorn R.,
 	[Nattapat Klinkajorn](https://nantta.github.io/E-card-For-Christmas-&-New-Year-2025),
 	[Pichanat Prommanee](https://naieric.github.io/E-Card),
 	[Purin Yartsamer](https://phaipy.github.io/e-card-Christmas-NewYear2025),
-	[Sintana Suwannacond](https://sintana11.github.io/E-Card)
+	[Sintana Suwannacond](https://sintana11.github.io/E-Card),
+	[Supakrit Somritjinda](https://jekoflash.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
