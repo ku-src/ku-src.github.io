@@ -88,7 +88,7 @@ Klittima C.,
 [Natchanan L.](https://ncnld2547.github.io/),
 [Natnicha N.](https://ohalic.github.io/),
 [Nattanun K.](https://tnattanun.github.io/),
-Nattapat K.,
+[Nattapat K.](https://nantta.github.io/),
 [Nattawut S.](https://mizeto.github.io/),
 [Nisita P.](https://nisita0309.github.io/),
 [Nonpawit S.](https://waterondaway.github.io/),
@@ -316,6 +316,7 @@ Watcharakorn R.,
 	[Phurin Phuangmadue](https://teamgamer11.github.io/Christmas),
 	[Krit Chanthim](https://6530250000.github.io/marry),
 	[Ratchaneekorn Saykaeo](https://6430200566.github.io/newyearcard),
-	[Pruksakorn Saiweal](https://zozimboii.github.io/Christmas_&_New_Year_2025)
+	[Pruksakorn Saiweal](https://zozimboii.github.io/Christmas_&_New_Year_2025),
+	[Nattapat Klinkajorn](https://nantta.github.io/E-card-For-Christmas-&-New-Year-2025)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
