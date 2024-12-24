@@ -165,7 +165,7 @@ Suraphak A.,
 [Thanabordee B.](https://realalunda.github.io/),
 [Thanapat U.](https://friday1313.github.io/),
 [Thatthep S.](https://bastackle.github.io/),
-Thawanrat P.,
+[Thawanrat P.](https://tongyeh.github.io/),
 [Thirawat S.](https://captainnn3.github.io/),
 [Thossaphol M.](thossaphol2204.github.io/),
 [Tinnapop R.](https://tinnapop-1728.github.io/),
@@ -306,6 +306,8 @@ Watcharakorn R.,
 	[Kamolphop Panbunlue](https://l3b1-qw.github.io/christmas),
 	[Kittithorn Thongtum](https://kitty340822.github.io/e-card),
 	[Thirawat Siripanich](https://captainnn3.github.io/card),
-	[Phatsagon Teerarujinon](https://phatsagon.github.io/e-card)
+	[Phatsagon Teerarujinon](https://phatsagon.github.io/e-card),
+	[Nisita Panichwaisawan](https://nisita0309.github.io/e-cardMerryHappy)
+	[Thawanrat Phithak](https://tongyeh.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
