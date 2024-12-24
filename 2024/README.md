@@ -130,7 +130,7 @@ Preeyada K.,
 [Pruksakorn S.](https://zozimboii.github.io/),
 [Punnakan P.](https://qlerdev.github.io/),
 Punyavee S.,
-Purin Y.,
+[Purin Y.](https://phaipy.github.io/),
 [Purinut E.](https://6530200762.github.io/),
 [Ratchaneekorn S.](https://6430200566.github.io/),
 Ratiphong W.,
@@ -318,6 +318,7 @@ Watcharakorn R.,
 	[Ratchaneekorn Saykaeo](https://6430200566.github.io/newyearcard),
 	[Pruksakorn Saiweal](https://zozimboii.github.io/Christmas_&_New_Year_2025),
 	[Nattapat Klinkajorn](https://nantta.github.io/E-card-For-Christmas-&-New-Year-2025),
-	[Pichanat Prommanee](https://naieric.github.io/E-Card)
+	[Pichanat Prommanee](https://naieric.github.io/E-Card),
+	[Purin Yartsamer](https://phaipy.github.io/e-card-Christmas-NewYear2025)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
