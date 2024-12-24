@@ -93,7 +93,7 @@ Nattapat K.,
 [Nisita P.](https://nisita0309.github.io/),
 [Nonpawit S.](https://waterondaway.github.io/),
 [Nontawat P.](https://nontawatjgm.github.io/),
-Nutparit S.,
+[Nutparit S.](https://6530200151.github.io/),
 [Onnicha S.](https://momojoj.github.io/),
 [Panisara W.](https://6530200274.github.io/),
 [Panissara B.](https://panissaraaa.github.io/),
@@ -307,7 +307,8 @@ Watcharakorn R.,
 	[Kittithorn Thongtum](https://kitty340822.github.io/e-card),
 	[Thirawat Siripanich](https://captainnn3.github.io/card),
 	[Phatsagon Teerarujinon](https://phatsagon.github.io/e-card),
-	[Nisita Panichwaisawan](https://nisita0309.github.io/e-cardMerryHappy)
-	[Thawanrat Phithak](https://tongyeh.github.io/e-card)
+	[Nisita Panichwaisawan](https://nisita0309.github.io/e-cardMerryHappy),
+	[Thawanrat Phithak](https://tongyeh.github.io/e-card),
+	[Nutparit Somboon](https://6530200151.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
