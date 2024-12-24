@@ -115,7 +115,7 @@ Phantharat T.,
 [Phatsagon T.](https://phatsagon.github.io/),
 Phetcharat T.,
 [Phrommin K.](https://phrommin.github.io/),
-Phurin P.,
+[Phurin P.](https://teamgamer11.github.io/),
 [Phuriphat K.](https://prxsss.github.io/),
 Pichanat P.,
 [Pichaya S.](https://6530250158.github.io/),
@@ -312,6 +312,7 @@ Watcharakorn R.,
 	[Nutparit Somboon](https://6530200151.github.io/e-card),
 	[Kongsiri Panchuen](https://kongsiri07.github.io/merryxmas),
 	[Sathaporn Sattayachiti](https://sathaporn-sat.github.io/E-Card),
-	[Warakorn Chanthawong](https://fairfairfairfair.github.io/christmas)
+	[Warakorn Chanthawong](https://fairfairfairfair.github.io/christmas),
+	[Phurin Phuangmadue](https://teamgamer11.github.io/Christmas)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
