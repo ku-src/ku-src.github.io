@@ -313,6 +313,7 @@ Watcharakorn R.,
 	[Kongsiri Panchuen](https://kongsiri07.github.io/merryxmas),
 	[Sathaporn Sattayachiti](https://sathaporn-sat.github.io/E-Card),
 	[Warakorn Chanthawong](https://fairfairfairfair.github.io/christmas),
-	[Phurin Phuangmadue](https://teamgamer11.github.io/Christmas)
+	[Phurin Phuangmadue](https://teamgamer11.github.io/Christmas),
+	[Krit Chanthim](https://6530250000.github.io/marry)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
