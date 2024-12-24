@@ -303,6 +303,8 @@ Watcharakorn R.,
 	[Natchanan Lordee](https://ncnld2547.github.io/christmas),
 	[Veeraya Lekchaoum](https://valin4637.github.io/e-card),
 	[Nattawut Supapat](https://mizeto.github.io/e-card),
-	[Kamolphop Panbunlue](https://l3b1-qw.github.io/christmas)
+	[Kamolphop Panbunlue](https://l3b1-qw.github.io/christmas),
+	[Kittithorn Thongtum](https://kitty340822.github.io/e-card),
+	[Thirawat Siripanich](https://captainnn3.github.io/card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
