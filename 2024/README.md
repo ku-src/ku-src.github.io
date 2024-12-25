@@ -111,7 +111,7 @@ Panyawat L.,
 [Peeramate J.](https://devpeeramate.github.io/),
 [Penpicha P.](https://penpicha31.github.io/),
 Phakkawat J.,
-Phantharat T.,
+[Phantharat T.](https://phantharatt.github.io/),
 [Phatsagon T.](https://phatsagon.github.io/),
 Phetcharat T.,
 [Phrommin K.](https://phrommin.github.io/),
@@ -324,6 +324,7 @@ Watcharakorn R.,
 	[Supakrit Somritjinda](https://jekoflash.github.io/e-card),
 	[Amarin Yaovarod](https://6530200908.github.io/E-card),
 	[Boonphithak Phompech](https://mrzcrocodile.github.io/e-card),
-	[Pattaravut Sukbot](https://pattaravut.github.io/ecard)
+	[Pattaravut Sukbot](https://pattaravut.github.io/ecard),
+	[Phantharat Tareram](https://phantharatt.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
