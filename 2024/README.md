@@ -321,6 +321,7 @@ Watcharakorn R.,
 	[Pichanat Prommanee](https://naieric.github.io/E-Card),
 	[Purin Yartsamer](https://phaipy.github.io/e-card-Christmas-NewYear2025),
 	[Sintana Suwannacond](https://sintana11.github.io/E-Card),
-	[Supakrit Somritjinda](https://jekoflash.github.io/e-card)
+	[Supakrit Somritjinda](https://jekoflash.github.io/e-card),
+	[Amarin Yaovarod](https://6530200908.github.io/E-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
