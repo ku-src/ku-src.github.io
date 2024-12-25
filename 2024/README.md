@@ -106,7 +106,7 @@ Panyawat L.,
 [Pasin H.](https://mater3214.github.io/),
 [Patitta K.](https://6430200442.github.io/),
 [Pattarapa T.](https://6530250140.github.io/),
-Pattaravut S.,
+[Pattaravut S.](https://pattaravut.github.io/),
 [Pattralada P.](https://skyandz.github.io/),
 [Peeramate J.](https://devpeeramate.github.io/),
 [Penpicha P.](https://penpicha31.github.io/),
@@ -323,6 +323,7 @@ Watcharakorn R.,
 	[Sintana Suwannacond](https://sintana11.github.io/E-Card),
 	[Supakrit Somritjinda](https://jekoflash.github.io/e-card),
 	[Amarin Yaovarod](https://6530200908.github.io/E-card),
-	[Boonphithak Phompech](https://mrzcrocodile.github.io/e-card)
+	[Boonphithak Phompech](https://mrzcrocodile.github.io/e-card),
+	[Pattaravut Sukbot](https://pattaravut.github.io/ecard)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
