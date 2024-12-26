@@ -336,6 +336,8 @@ Preeyada K.,
 	[Sila Kamuttrakulchai](https://sila801.github.io/Christmas),
 	[Suphanimit Nilchawee](https://6530200517.github.io/ChristmasAndNewYear2025),
 	[Ekkapong Warnset](https://ekkapongwa.github.io/ecard),
-	[Addeen Salaehsakul](https://itzdeenzxx.github.io/Ecard_cristmas)
+	[Addeen Salaehsakul](https://itzdeenzxx.github.io/Ecard_cristmas),
+	[Sitthipong Klaewkla](https://6530200851.github.io/eCard),
+	[Klittima Chaowadee](https://anniemark2522.github.io/card/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
