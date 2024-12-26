@@ -338,6 +338,7 @@ Preeyada K.,
 	[Ekkapong Warnset](https://ekkapongwa.github.io/ecard),
 	[Addeen Salaehsakul](https://itzdeenzxx.github.io/Ecard_cristmas),
 	[Sitthipong Klaewkla](https://6530200851.github.io/eCard),
-	[Klittima Chaowadee](https://anniemark2522.github.io/card/e-card)
+	[Klittima Chaowadee](https://anniemark2522.github.io/card/e-card),
+	[Jetnipat Daengsai](https://jetnipatmark.github.io/e-card)
 
 <br><br><br><br><br><br><br><br><br><br><br><br><br>
