@@ -28,6 +28,7 @@
 - (Sat) **Jan 4**, 2025 - **Session 7** (PM)
 
 - [**Securing the Human**](Securing-the-Human)
+	- + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
