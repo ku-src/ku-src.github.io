@@ -27,6 +27,8 @@
 - (Sat) **Dec 28**, 2024 - **Session 6**
 - (Sat) **Jan 4**, 2025 - **Session 7**
 
+- [**Securing the Human**](Securing-the-Human)
+
 <a name="lecturer"></a>
 ### **Lecturer**
 - [Maykin Warasart](https://www.google.com/search?q="Maykin+Warasart") ([เมฆินทร์ วรศาสตร์](https://www.google.com/search?q="เมฆินทร์ วรศาสตร์")), [[FB](https://www.facebook.com/maeklong)] [[X](https://x.com/maeklong)]
