@@ -24,7 +24,7 @@
 
 	[![Session 4 & 5](img/2024-12-21_Session4-5.png)](https://www.facebook.com/maeklong/posts/10231938980311265)
 
-- (Sat) **Dec 28**, 2024 - **Session 6** (PM: https://youtu.be/defMJvhL1dM)
+- (Sat) **Dec 28**, 2024 - **Session 6** (PM: [**link**](https://youtu.be/defMJvhL1dM))
 - (Sat) **Jan 4**, 2025 - **Session 7**
 
 - [**Securing the Human**](Securing-the-Human)
