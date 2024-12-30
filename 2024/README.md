@@ -22,7 +22,7 @@
 - (Mon) **Dec 16**, 2024 (Evening) - **ISC2 Badge** ([**link**](https://youtu.be/3DhcvUfnTvI)) via Google Meet
 - (Sat) **Dec 21**, 2024 (AM, PM) - **Session 4** & **5**
 
-	[![](img/2024-12-21_Session4-5.jpg "Session 4 & 5")](https://www.facebook.com/maeklong/posts/10231938980311265)
+	[![](img/2024-12-21_Session4-5.png "Session 4 & 5")](https://www.facebook.com/maeklong/posts/10231938980311265)
 
 - (Sat) **Dec 28**, 2024 - **Session 6** (PM: [**link**](https://youtu.be/defMJvhL1dM)) via Google Meet
 - (Sat) **Jan 4**, 2025 - **Session 7** (PM)
