@@ -6,7 +6,7 @@
 ### **Hybrid Class**
 - #17304, [Google Meet](https://meet.google.com/) & [Google Classroom](https://classroom.google.com/u/4/c/NzM1MjA0NDk2NjMy)
 
-	[![Room #17304](img/room-17304.png)](#)
+	[![Room #17304](img/room-17304.png "That's where we met")](#)
 
 ### **Time**
 - 09:00 - 12:00 & 13:00 - 16:00
