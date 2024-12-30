@@ -205,8 +205,8 @@ Preeyada K.,
 	- [Github Desktop](https://desktop.github.com/download/)
 - [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 
-<a name="self-study"></a>
-### **Self Study**
+<a name="references"></a>
+### **References**
 - [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
 	- [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html) - [1MCC](https://www.isc2.org/landing/1mcc) Partner Program
