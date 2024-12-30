@@ -217,6 +217,7 @@ Preeyada K.,
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [The Intelligence Handbook](https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition)
 - [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
+- [AWS Crypto Tools](https://docs.aws.amazon.com/aws-crypto-tools/)
 - [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
 - [Privileged Access Management for Dummies](https://delinea.com/resources/privileged-access-management-for-dummies-pdf)
