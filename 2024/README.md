@@ -351,7 +351,3 @@ Preeyada K.,
 	[Ratiphong Wanwiset](https://bxnkz.github.io/ecard),
 	[Watcharakorn Rassameedit](https://bestwatchara.github.io/e-card)
 
-<br><br><br><br><br>
-
-
-
