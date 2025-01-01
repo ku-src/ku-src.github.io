@@ -27,7 +27,7 @@
 - (Sat) **Dec 28**, 2024 - **Session 6** (PM: [**link**](https://youtu.be/defMJvhL1dM)) via Google Meet
 - (Sat) **Jan 4**, 2025 - **Session 7** (PM)
 
-- [**Securing the Human**](Securing-the-Human) #วันรุ่นสร้างภูมิ
+- [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
 	- + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
 
 <a name="lecturer"></a>
