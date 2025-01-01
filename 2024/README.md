@@ -206,6 +206,7 @@ Preeyada K.,
 - [Microsoft Threat Modeling Tool](https://learn.microsoft.com/en-us/azure/security/develop/threat-modeling-tool)
 - [ATT&CK Matrix for Enterprise](https://attack.mitre.org/)
 - [Wireshark](https://www.wireshark.org/)
+- Burp Suite (https://portswigger.net/burp)
 
 <a name="references"></a>
 ### **References**
