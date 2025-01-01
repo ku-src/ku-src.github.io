@@ -12,7 +12,7 @@
 - 09:00 - 12:00 & 13:00 - 16:00
 
 <a name="classes"></a>
-### **Classes**
+### **Classes and Activities**
 - (Sat) **Nov 30**, 2024 (AM, PM) - **Session 1** & **2**
 
 	![](img/2024-11-30_Session1-2.jpg "Session 1 & 2")
@@ -27,7 +27,7 @@
 - (Sat) **Dec 28**, 2024 - **Session 6** (PM: [**link**](https://youtu.be/defMJvhL1dM)) via Google Meet
 - (Sat) **Jan 4**, 2025 - **Session 7** (PM)
 
-- [**Securing the Human**](Securing-the-Human)
+- [**Securing the Human**](Securing-the-Human) #วันรุ่นสร้างภูมิ
 	- + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
 
 <a name="lecturer"></a>
