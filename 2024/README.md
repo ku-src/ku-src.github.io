@@ -350,5 +350,6 @@ Preeyada K.,
 	[Jatnipit Konggasame](https://jatnipit.github.io/Christmas-and-New-Year-2025-card),
 	[Chaiwat Sadtho](https://6530200606.github.io/e-card),
 	[Ratiphong Wanwiset](https://bxnkz.github.io/ecard),
-	[Watcharakorn Rassameedit](https://bestwatchara.github.io/e-card)
+	[Watcharakorn Rassameedit](https://bestwatchara.github.io/e-card),
+	[Panyawat Leingpornrattana](https://top123321.github.io/e-card)
 
