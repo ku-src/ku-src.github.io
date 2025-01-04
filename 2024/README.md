@@ -25,7 +25,8 @@
 	[![](img/2024-12-21_Session4-5.png "Session 4 & 5")](https://www.facebook.com/maeklong/posts/10231938980311265)
 
 - (Sat) **Dec 28**, 2024 - **Session 6** (PM: [**link**](https://youtu.be/defMJvhL1dM)) via Google Meet
-- (Sat) **Jan 4**, 2025 - **Session 7** (PM)
+- (Sat) **Jan 4**, 2025 - **Session 7** (PM: [**link**](https://youtu.be/Jt5xJq71N4Q)) via Google Meet
+- (Sat) **Jan 25**, 2025 (AM, PM) - **Session 8** & **9**
 
 - [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
 	- + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
