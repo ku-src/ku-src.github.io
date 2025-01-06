@@ -29,7 +29,8 @@
 - (Sat) **Jan 25**, 2025 (AM, PM) - **Session 8** & **9**
 
 - [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
-	- + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
+	- [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
+	- [5 Club People](https://9siravet.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
