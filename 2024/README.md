@@ -357,5 +357,5 @@ Preeyada K.,
 	[Chaiyaporn Poolsawat](https://lnwnott.github.io/e-card),
 	[Phakkawat Jitponsup](https://pondxd.github.io/e-card),
 	[Piyaphum Muetkhambong](https://piyaphum.github.io/ecard),
-	[Panissara Poungurai](https://aum8362.github.io/HNY)
-
+	[Panissara Poungurai](https://aum8362.github.io/HNY),
+	[Auksara Suwannawayuk](https://auksaraaa.github.io/e-card)
