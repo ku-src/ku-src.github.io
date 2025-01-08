@@ -4,13 +4,11 @@
 
 + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame) -- สมาชิกของสภานิสิต
 
-	![Kaprao Mhookrob Kaidao](img/SecTheHum/Kaprao-Mhookrob-Kaidao.jpg "วัยรุ่นสร้างภูมิ - Kaprao Mhookrob Kaidao")
-	![Kaprao Mhookrob Kaidao & Khaophat Kung](img/SecTheHum/Kaprao-Mhookrob-Kaidao_to_Khaophat-Kung.jpg "วัยรุ่นสร้างภูมิ - สมาชิกของสภานิสิต")
+	![Kaprao Mhookrob Kaidao](img/SecTheHum/Kaprao-Mhookrob-Kaidao.jpg "วัยรุ่นสร้างภูมิ - Kaprao Mhookrob Kaidao") ![Kaprao Mhookrob Kaidao & Khaophat Kung](img/SecTheHum/Kaprao-Mhookrob-Kaidao_to_Khaophat-Kung.jpg "วัยรุ่นสร้างภูมิ - สมาชิกของสภานิสิต")
 
 + [5 Club People](https://9siravet.github.io/boardgame) -- นิสิตคณะวิทยาการจัดการสาขาการเงิน
 
-	![5 Club People](img/SecTheHum/5-Club-People.jpg "วัยรุ่นสร้างภูมิ - 5 Club People")
-	![5 Club People & Kong v.3](img/SecTheHum/5-Club-People_to_Kong-v3.jpg "วัยรุ่นสร้างภูมิ - นิสิตคณะวิทยาการจัดการสาขาการเงิน")
+	![5 Club People](img/SecTheHum/5-Club-People.jpg "วัยรุ่นสร้างภูมิ - 5 Club People") ![5 Club People & Kong v.3](img/SecTheHum/5-Club-People_to_Kong-v3.jpg "วัยรุ่นสร้างภูมิ - นิสิตคณะวิทยาการจัดการสาขาการเงิน")
 
 + [Ai ma 5 khon](https://6530200274.github.io/boardgame) -- นิสิตคณะวิทยาการจัดการ สาขาการบัญชี
 
