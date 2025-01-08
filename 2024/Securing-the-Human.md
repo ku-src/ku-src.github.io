@@ -4,6 +4,7 @@
 
 + [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame) -- สมาชิกของสภานิสิต
 
+	![Kaprao Mhookrob Kaidao](img/SecTheHum/Kaprao-Mhookrob-Kaidao.jpg "วัยรุ่นสร้างภูมิ - Kaprao Mhookrob Kaidao")
 	![Kaprao Mhookrob Kaidao & Khaophat Kung](img/SecTheHum/Kaprao-Mhookrob-Kaidao_to_Khaophat-Kung.jpg "วัยรุ่นสร้างภูมิ - สมาชิกของสภานิสิต")
 
 + [5 Club People](https://9siravet.github.io/boardgame) -- นิสิตคณะวิทยาการจัดการสาขาการเงิน
