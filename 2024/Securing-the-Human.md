@@ -10,3 +10,5 @@
 + [Ai ma 5 khon](https://6530200274.github.io/boardgame)
 
 * [#วัยรุ่นสร้างภูมิ](#)
+
+![Khaophat Kung & SiR Dear ZDark](img/SecTheHum/Khaophat-Kung_to_SiR-Dear-ZDark.jpg "วัยรุ่นสร้างภูมิ - Securing the Human")
