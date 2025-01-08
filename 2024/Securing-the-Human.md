@@ -12,7 +12,7 @@
 
 + [Ai ma 5 khon](https://6530200274.github.io/boardgame) -- นิสิตคณะวิทยาการจัดการ สาขาการบัญชี
 
-	![Ai ma 5 khon](img/SecTheHum/5-Club-People.jpg "วัยรุ่นสร้างภูมิ - Ai ma 5 khon")
+	![Ai ma 5 khon](img/SecTheHum/Ai-ma-5-khon.jpg "วัยรุ่นสร้างภูมิ - Ai ma 5 khon")
 
 
 ## #วัยรุ่นสร้างภูมิ
