@@ -20,4 +20,6 @@
 
 	![Ai ma 5 khon & CSG](img/SecTheHum/Ai-ma-5-khon_to_CSG.jpg "วัยรุ่นสร้างภูมิ - Securing the Human")
 
+	![Superior Dream Team & The Standard](img/SecTheHum/Superior-Dream-Team_to_The-Standard.jpg "วัยรุ่นสร้างภูมิ - Securing the Human")
+
 	
