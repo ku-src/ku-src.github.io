@@ -1,6 +1,6 @@
 # 01418332 - Information System Security
 
-### **Pre-Requisite**
+### **Prerequisite**
 - Operating System (01418236)
 
 ### **Hybrid Class**
