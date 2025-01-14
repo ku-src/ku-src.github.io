@@ -33,3 +33,5 @@
 
 ![Superior Dream Team & The Standard](img/SecTheHum/Superior-Dream-Team_to_The-Standard.jpg "วัยรุ่นสร้างภูมิ - Superior Dream Team & The Standard")
 
+![SiR Dear ZDark & Sigma Sigma Boy](img/SecTheHum/SiR-Dear-ZDark_to_Sigma-Sigma-Boy.jpg "วัยรุ่นสร้างภูมิ - SiR Dear ZDark & Sigma Sigma Boy")
+
