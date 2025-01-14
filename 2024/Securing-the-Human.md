@@ -14,7 +14,7 @@
 
 	![Ai ma 5 khon](img/SecTheHum/Ai-ma-5-khon.jpg "วัยรุ่นสร้างภูมิ - Ai ma 5 khon")
 
-+ [Kong v.3](#) -- นิสิต
++ [Kong v.3](#) -- นิสิตคณะวิทยาการจัดการ สาขาธุรกิจระหว่างประเทศ (IB)
 
 	![Kong v.3](img/SecTheHum/Kong-v3.jpg "วัยรุ่นสร้างภูมิ - Kong v.3")
 
