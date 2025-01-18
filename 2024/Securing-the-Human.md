@@ -18,6 +18,10 @@
 
 	![Kong v.3](img/SecTheHum/Kong-v3.jpg "วัยรุ่นสร้างภูมิ - Kong v.3")
 
++ [SiR Dear ZDark](https://mizeto.github.io/board-game) -- xxx
+
+	![SiR Dear ZDark](img/SecTheHum/xxxxx  "xxx")
+
 
 ## #วัยรุ่นสร้างภูมิ
 

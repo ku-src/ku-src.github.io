@@ -32,6 +32,7 @@
 	- [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
 	- [5 Club People](https://9siravet.github.io/boardgame)
 	- [Ai ma 5 khon](https://6530200274.github.io/boardgame)
+	- [SiR Dear ZDark](https://mizeto.github.io/board-game)
 
 <a name="lecturer"></a>
 ### **Lecturer**
