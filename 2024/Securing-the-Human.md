@@ -18,7 +18,7 @@
 
 	![Kong v.3](img/SecTheHum/Kong-v3.jpg "วัยรุ่นสร้างภูมิ - Kong v.3")
 
-+ [SiR Dear ZDark](https://mizeto.github.io/board-game) -- xxx
++ [SiR Dear ZDark](https://mizeto.github.io/board-game) -- น้องๆ ชั้นปีที่ 2 คณะวิทยาศาสตร์ ศรีราชา สาขาวิทยาการและเทคโนโลยีดิจิทัล (Digital Science and Technology) ที่พักอาศัยอยู่ในหอพักนิสิต
 
 	![SiR Dear ZDark](img/SecTheHum/SiR-Dear-ZDark.png  "วัยรุ่นสร้างภูมิ - SiR Dear ZDark")
 
