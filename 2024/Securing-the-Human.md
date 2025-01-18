@@ -20,7 +20,7 @@
 
 + [SiR Dear ZDark](https://mizeto.github.io/board-game) -- xxx
 
-	![SiR Dear ZDark](img/SecTheHum/xxxxx  "xxx")
+	![SiR Dear ZDark](img/SecTheHum/SiR-Dear-ZDark.png  "วัยรุ่นสร้างภูมิ - SiR Dear ZDark")
 
 
 ## #วัยรุ่นสร้างภูมิ
