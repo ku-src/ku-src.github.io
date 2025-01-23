@@ -53,10 +53,11 @@
 	- Cybersecurity Awareness Professional – CertiProf
 - **Guest[s]**
 	- HPE Aruba Networking (Feb 15, 2025)
-		- Khun Wanasan Srisroy (P'Na)
+		- Khun **Wanasan Srisroy** (P'Na)
+		- Khun **Pirom Nontarach** (P'Mos)
 	- T-NET IT Solution (Feb 22, 2025)
-		- Khun Jedsada T.
-		- Khun Angkarn P.
+		- Khun **Jedsada Thongkarnluang** (P'Tom)
+		- Khun **Angkarn Phummarin* (P'Man)
 
 ### **Students**
 
