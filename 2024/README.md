@@ -51,6 +51,9 @@
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
+
+<a name="guests"></a>
+
 - **Guest[s]**
 	- HPE Aruba Networking (Feb 15, 2025)
 		- Khun **Wanasan Srisroy** (P'Na)
