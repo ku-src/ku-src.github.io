@@ -52,7 +52,7 @@
 	- Security Awareness Specialist – Proofpoint
 	- Cybersecurity Awareness Professional – CertiProf
 - **Guest[s]**
-	- TBA
+	- Khun Wanasan Srisroy (P'Na), HPE Aruba Networking (Feb 15, 2025)
 
 ### **Students**
 
