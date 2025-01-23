@@ -22,6 +22,10 @@
 
 	![SiR Dear ZDark](img/SecTheHum/SiR-Dear-ZDark.png  "วัยรุ่นสร้างภูมิ - SiR Dear ZDark")
 
++ [Sigma Sigma boy](https://nutnaphop.github.io/boardgame) -- ???
+
+	![Sigma Sigma boy](img/SecTheHum/Sigma-Sigma-boy.jpg  "วัยรุ่นสร้างภูมิ - Sigma Sigma boy")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
