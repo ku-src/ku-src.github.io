@@ -58,7 +58,7 @@
 		- Khun **Wanasan Srisroy** (P'Na)
 		- Khun **Pirom Nontarach** (P'Mos)
 	- T-NET IT Solution (Feb 22, 2025)
-		- Khun **Jedsada Thongkarnluang** (P'Tom)
+		- Khun **Jedsada Thongkanluang** (P'Tom)
 		- Khun **Angkarn Phummarin** (P'Man)
 
 ### **Students**
