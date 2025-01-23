@@ -54,6 +54,9 @@
 - **Guest[s]**
 	- HPE Aruba Networking (Feb 15, 2025)
 		- Khun Wanasan Srisroy (P'Na)
+	- T-NET IT Solution (Feb 22, 2025)
+		- Khun Jedsada T.
+		- Khun Angkarn P.
 
 ### **Students**
 
