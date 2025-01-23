@@ -59,7 +59,7 @@
 		- Khun **Pirom Nontarach** (P'Mos)
 	- T-NET IT Solution (Feb 22, 2025)
 		- Khun **Jedsada Thongkanluang** (P'Tom)
-		- Khun **Angkarn Phummarin** (P'Man)
+		- Khun **Angkarn Pummarin** (P'Man)
 
 ### **Students**
 
