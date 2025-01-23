@@ -55,11 +55,11 @@
 <a name="guests"></a>
 - **Guest[s]**
 	- HPE Aruba Networking (Feb 15, 2025)
-		- Khun **Wanasan Srisroy** (P'Na)
-		- Khun **Pirom Nontarach** (P'Mos)
+		- Khun **Wanasan Srisroy** (P`Na)
+		- Khun **Pirom Nontarach** (P`Mos)
 	- T-NET IT Solution (Feb 22, 2025)
-		- Khun **Jedsada Thongkanluang** (P'Tom)
-		- Khun **Angkarn Pummarin** (P'Man)
+		- Khun **Jedsada Thongkanluang** (P`Tom)
+		- Khun **Angkarn Pummarin** (P`Man)
 
 ### **Students**
 
