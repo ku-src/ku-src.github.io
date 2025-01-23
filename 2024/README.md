@@ -33,6 +33,7 @@
 	- [5 Club People](https://9siravet.github.io/boardgame)
 	- [Ai ma 5 khon](https://6530200274.github.io/boardgame)
 	- [SiR Dear ZDark](https://mizeto.github.io/board-game)
+	- [Sigma Sigma boy](https://nutnaphop.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
