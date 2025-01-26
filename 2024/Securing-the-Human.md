@@ -51,5 +51,10 @@
 
 ![The-Standard & Habung](img/SecTheHum/The-Standard_to_Habung.jpg "วัยรุ่นสร้างภูมิ - The-Standard & Habung")
 
+
+Nova888_to_Thongtum
+
+
+
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
  
