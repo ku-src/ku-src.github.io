@@ -145,7 +145,7 @@
 [Poothripatn S.](https://poohri5551.github.io/),
 [Poramet O.](https://poramet04.github.io/),
 [Porawapat M.](https://porawapat-github.github.io/),
-Preeyada K.,
+[Preeyada K.](https://preeyadak.github.io/),
 [Pruksakorn S.](https://zozimboii.github.io/),
 [Punnakan P.](https://qlerdev.github.io/),
 [Punyavee S.](https://punyavee0.github.io/),
