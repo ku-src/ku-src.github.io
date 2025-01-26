@@ -22,7 +22,7 @@
 
 	![SiR Dear ZDark](img/SecTheHum/SiR-Dear-ZDark.png  "วัยรุ่นสร้างภูมิ - SiR Dear ZDark")
 
-+ [Sigma Sigma boy](https://nutnaphop.github.io/boardgame) -- ???
++ [Sigma Sigma boy](https://nutnaphop.github.io/boardgame) -- นิสิตวิทยาการคอมพิวเตอร์ปีที่ 2 ภาคปกติ
 
 	![Sigma Sigma boy](img/SecTheHum/Sigma-Sigma-boy.jpg  "วัยรุ่นสร้างภูมิ - Sigma Sigma boy")
 
@@ -63,7 +63,7 @@
 
 ![Seven & lnwza007](img/SecTheHum/Seven_to_lnwza007.jpg "วัยรุ่นสร้างภูมิ - Seven & lnwza007")
 
-![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
-
 ![Seksan-Salaehsakul & JapJapzaTaluiLok](img/SecTheHum/Seksan-Salaehsakul_to_JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - Seksan-Salaehsakul & JapJapzaTaluiLok")
+
+![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
  
