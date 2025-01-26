@@ -1,6 +1,6 @@
 # Maykin Warasart's Course[s]
 
-+ [[2024](2024)] - [01418332 - Information System Security (ความมั่นคงในระบบสารสนเทศ)](2024)
++ [[2024](2024)] - [01418332 - Information Systems Security (ความมั่นคงในระบบสารสนเทศ)](2024)
 
 # More info.
 * Email(s)
