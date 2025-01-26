@@ -48,4 +48,6 @@
 ![SiR Dear ZDark & Sigma Sigma Boy](img/SecTheHum/SiR-Dear-ZDark_to_Sigma-Sigma-Boy.jpg "วัยรุ่นสร้างภูมิ - SiR Dear ZDark & Sigma Sigma Boy") 
 
 ![Sigma Sigma boy & Nova888](img/SecTheHum/Sigma-Sigma-boy_to_Nova888.jpg "วัยรุ่นสร้างภูมิ - Sigma Sigma boy & Nova888")
+
+![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
  
