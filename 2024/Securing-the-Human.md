@@ -51,6 +51,17 @@
 
 ![The-Standard & Habung](img/SecTheHum/The-Standard_to_Habung.jpg "วัยรุ่นสร้างภูมิ - The-Standard & Habung")
 
+![Nova888 & Thongtum](img/SecTheHum/Nova888_to_Thongtum.jpg "วัยรุ่นสร้างภูมิ - Nova888 & Thongtum")
+
+![csg & Seven](img/SecTheHum/csg_to_Seven.jpg "วัยรุ่นสร้างภูมิ - csg & Seven")
+
+![Habung & Seksan-Salaehsakul](img/SecTheHum/Habung_to_Seksan-Salaehsakul.jpg "วัยรุ่นสร้างภูมิ - Habung & Seksan-Salaehsakul")
+
+![Thongtum & Kitti](img/SecTheHum/Thongtum_to_Kitti.jpg "วัยรุ่นสร้างภูมิ - Thongtum & Kitti")
+
+![Kitti & Manoi](img/SecTheHum/Kitti_to_Manoi.jpg "วัยรุ่นสร้างภูมิ - Ki & & Manoi")
+
+![Seven & lnwza007](img/SecTheHum/Seven_to_lnwza007.jpg "วัยรุ่นสร้างภูมิ - Seven & lnwza007")
 
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
  
