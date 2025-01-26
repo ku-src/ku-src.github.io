@@ -37,6 +37,7 @@
 	- [SiR Dear ZDark](https://mizeto.github.io/board-game)
 	- [Sigma Sigma boy](https://nutnaphop.github.io/boardgame)
 	- [Kong V.3](https://bossmahob.github.io/cyberboardgame)
+	- [Manoi](https://donyweasley.github.io/boardgame/)
 
 <a name="lecturer"></a>
 ### **Lecturer**
