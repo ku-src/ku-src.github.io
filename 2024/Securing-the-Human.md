@@ -49,7 +49,7 @@
 
 ![Sigma Sigma boy & Nova888](img/SecTheHum/Sigma-Sigma-boy_to_Nova888.jpg "วัยรุ่นสร้างภูมิ - Sigma Sigma boy & Nova888")
 
-
+![The-Standard & Habung](img/SecTheHum/The-Standard_to_Habung.jpg "วัยรุ่นสร้างภูมิ - The-Standard & Habung")
 
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
  
