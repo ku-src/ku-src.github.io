@@ -249,6 +249,7 @@ Preeyada K.,
 - [Windows 11 Security Book](https://learn.microsoft.com/en-gb/windows/security/book/)
 - [Guide to the Systems Engineering Body of Knowledge (SEBoK)](https://sebokwiki.org/wiki/Guide_to_the_Systems_Engineering_Body_of_Knowledge_(SEBoK))
 - [C5W-100 INTRODUCTION TO DIGITAL FORENSICS](https://academy.cyber5w.com/courses/C5W-100)
+- [Software Engineering at Google](https://abseil.io/resources/swe-book)
 
 <a name="assignments"></a>
 ### **Assignments**
