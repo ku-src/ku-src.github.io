@@ -26,6 +26,10 @@
 
 	![Sigma Sigma boy](img/SecTheHum/Sigma-Sigma-boy.jpg  "วัยรุ่นสร้างภูมิ - Sigma Sigma boy")
 
++ [Manoi](https://donyweasley.github.io/boardgame/) -- นิสิตคณะวิทยาการจัดการ สาขาการบัญชี
+
+	![Manoi](img/SecTheHum/Manoi.jpg "วัยรุ่นสร้างภูมิ - Manoi")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
