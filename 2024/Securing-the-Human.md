@@ -64,4 +64,6 @@
 ![Seven & lnwza007](img/SecTheHum/Seven_to_lnwza007.jpg "วัยรุ่นสร้างภูมิ - Seven & lnwza007")
 
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
+
+![Seksan-Salaehsakul & JapJapzaTaluiLok](img/SecTheHum/Seksan-Salaehsakul_to_JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - Seksan-Salaehsakul & JapJapzaTaluiLok")
  
