@@ -30,6 +30,8 @@
 
 	[![](img/2025-01-25_Session8-9.jpg "Session 8 & 9")](https://www.facebook.com/maeklong/posts/10232145315709521)
 
+- (Sat) **Feb 8**, 2025 - **Session 10** (PM) via Google Meet
+
 - [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
 	- [Kraprao Mhookrob Kaidao](https://qlerdev.github.io/boardgame)
 	- [5 Club People](https://9siravet.github.io/boardgame)
