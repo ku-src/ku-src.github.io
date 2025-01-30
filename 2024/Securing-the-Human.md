@@ -30,6 +30,10 @@
 
 	![Manoi](img/SecTheHum/Manoi.jpg "วัยรุ่นสร้างภูมิ - Manoi")
 
++ [Seksan-Salahsakul](https://huggies2003.github.io/Boardgame) --  นิสิตคณะวิทยาการจัดการ สาขาการจัดการโลจิสติกส์ ชั้นปีที่ 3
+
+	![Manoi](img/SecTheHum/Seksan-Salaehsakul.jpg "วัยรุ่นสร้างภูมิ - Seksan Salahsakul")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
