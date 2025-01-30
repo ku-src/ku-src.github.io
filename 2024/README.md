@@ -45,6 +45,7 @@
 	- [Kong V.3](https://bossmahob.github.io/cyberboardgame)
 	- [Manoi](https://donyweasley.github.io/boardgame/)
 	- [Seksan-Salahsakul](https://huggies2003.github.io/Boardgame)
+	- [Superior Dream Team](https://rattanapong7.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
