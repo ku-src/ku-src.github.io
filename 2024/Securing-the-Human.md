@@ -34,6 +34,10 @@
 
 	![Manoi](img/SecTheHum/Seksan-Salaehsakul.jpg "วัยรุ่นสร้างภูมิ - Seksan Salahsakul")
 
++ [Superior Dream Team](https://rattanapong7.github.io/boardgame) -- นิสิตคณะวิทยาการจัดการ สาขาการโรงแรม
+
+	![Superior Dream Team](img/SecTheHum/Superior-Dream-Team.jpg "วัยรุ่นสร้างภูมิ - Superior Dream Team")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
