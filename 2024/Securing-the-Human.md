@@ -70,4 +70,6 @@
 ![Seksan-Salaehsakul & JapJapzaTaluiLok](img/SecTheHum/Seksan-Salaehsakul_to_JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - Seksan-Salaehsakul & JapJapzaTaluiLok")
 
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
+
+![God menu & Dynamic V](img/SecTheHum/God-menu_to_Dynamic-V.jpg "วัยรุ่นสร้างภูมิ - God menu & Dynamic V")
  
