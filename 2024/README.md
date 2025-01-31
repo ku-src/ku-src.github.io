@@ -46,6 +46,7 @@
 	- [Manoi](https://donyweasley.github.io/boardgame/)
 	- [Seksan-Salahsakul](https://huggies2003.github.io/Boardgame)
 	- [Superior Dream Team](https://rattanapong7.github.io/boardgame)
+	- [Kitti](https://kitty340822.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
