@@ -41,6 +41,10 @@
 + [Kitti](https://phaipy.github.io/boardgame) -- นักศึกษาปี 3 คณะวิทยาการจัดการ สาขาบัญชี
 
 	![Kitti](img/SecTheHum/Kitti.jpg "วัยรุ่นสร้างภูมิ - Kitti")
+
++ [Thongtum](https://zozimboii.github.io/board-game) -- เพื่อนชั้นปีที่ 3 คณะวิทยาการจัดการ สาขาการบัญชี (Accounting)
+
+	![Thongtum](img/SecTheHum/Thongtum.png "วัยรุ่นสร้างภูมิ - Thongtum")
 	
 
 
