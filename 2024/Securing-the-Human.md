@@ -38,6 +38,11 @@
 
 	![Superior Dream Team](img/SecTheHum/Superior-Dream-Team.jpg "วัยรุ่นสร้างภูมิ - Superior Dream Team")
 
++ [Kitti](https://kitty340822.github.io/boardgame) -- นักศึกษาปี 3 คณะวิทยาการจัดการ สาขาบัญชี
+
+	![Kitti](img/SecTheHum/Kitti.jpg "วัยรุ่นสร้างภูมิ - Kitti")
+	
+
 
 ## #วัยรุ่นสร้างภูมิ
 
