@@ -45,6 +45,10 @@
 + [Thongtum](https://zozimboii.github.io/board-game) -- เพื่อนชั้นปีที่ 3 คณะวิทยาการจัดการ สาขาการบัญชี (Accounting)
 
 	![Thongtum](img/SecTheHum/Thongtum.png "วัยรุ่นสร้างภูมิ - Thongtum")
+
++ [NOVA888](https://devpeeramate.github.io/board-game) --
+
+	![NOVA888](img/SecTheHum/Nova888.jpg "วัยรุ่นสร้างภูมิ - NOVA888")
 	
 + [CSG](https://dreamchitlada.github.io/Boardgame) -- นิสิตจากมหาวิทยาลัยบูรพา
 
