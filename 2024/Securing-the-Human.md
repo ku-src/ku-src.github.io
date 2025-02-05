@@ -85,4 +85,6 @@
 ![Manoi & God menu](img/SecTheHum/Manoi_to_God-menu.jpg "วัยรุ่นสร้างภูมิ - Manoi & God menu")
 
 ![God menu & Dynamic V](img/SecTheHum/God-menu_to_Dynamic-V.jpg "วัยรุ่นสร้างภูมิ - God menu & Dynamic V")
+
+![JapJapzaTaluiLok & BuyBye](img/SecTheHum/JapJapzaTaluilok_BuyBye.jpg "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok & BuyBye")
  
