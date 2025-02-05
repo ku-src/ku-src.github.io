@@ -46,7 +46,9 @@
 
 	![Thongtum](img/SecTheHum/Thongtum.png "วัยรุ่นสร้างภูมิ - Thongtum")
 	
-+ [CSG](https://dreamchitlada.github.io/Boardgame)
++ [CSG](https://dreamchitlada.github.io/Boardgame) -- นิสิตจากมหาวิทยาลัยบูรพา
+
+	![CSG](img/SecTheHum/csg.jpg "วัยรุ่นสร้างภูมิ - CSG")
 
 
 
