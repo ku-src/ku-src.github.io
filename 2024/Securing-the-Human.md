@@ -46,7 +46,7 @@
 
 	![Thongtum](img/SecTheHum/Thongtum.png "วัยรุ่นสร้างภูมิ - Thongtum")
 
-+ [NOVA888](https://devpeeramate.github.io/board-game) --
++ [NOVA888](https://devpeeramate.github.io/board-game) -- เพื่อนๆ คณะวิทยาศาสตร์ที่อาศัยอยู่บ้านเดียวกัน
 
 	![NOVA888](img/SecTheHum/Nova888.jpg "วัยรุ่นสร้างภูมิ - NOVA888")
 	
