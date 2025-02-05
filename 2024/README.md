@@ -48,6 +48,7 @@
 	- [Superior Dream Team](https://rattanapong7.github.io/boardgame)
 	- [Kitti](https://phaipy.github.io/boardgame)
 	- [Thongtum](https://zozimboii.github.io/board-game)
+	- [NOVA888](https://devpeeramate.github.io/board-game)
 	- [CSG](https://dreamchitlada.github.io/Boardgame)
 
 <a name="lecturer"></a>
