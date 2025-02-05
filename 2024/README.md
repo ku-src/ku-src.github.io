@@ -50,6 +50,7 @@
 	- [Thongtum](https://zozimboii.github.io/board-game)
 	- [NOVA888](https://devpeeramate.github.io/board-game)
 	- [CSG](https://dreamchitlada.github.io/Boardgame)
+	- [God menu](https://jis03.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
