@@ -56,7 +56,7 @@
 
 + [God menu](https://jis03.github.io/boardgame) -- 
 
-	![God menu](img/SecTheHum/xxx.jpg "วัยรุ่นสร้างภูมิ - God menu")
+	![God menu](img/SecTheHum/God-menu.jpg "วัยรุ่นสร้างภูมิ - God menu")
 
 
 ## #วัยรุ่นสร้างภูมิ
