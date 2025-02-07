@@ -54,9 +54,15 @@
 
 	![CSG](img/SecTheHum/csg.jpg "วัยรุ่นสร้างภูมิ - CSG")
 
-+ [God menu](https://jis03.github.io/boardgame) -- 
++ [God menu](https://jis03.github.io/boardgame) -- นิสิตชั้นปีที่ 4 สาขาวิทยาการคอมพิวเตอร์
 
 	![God menu](img/SecTheHum/God-menu.jpg "วัยรุ่นสร้างภูมิ - God menu")
+
++ [Seven](#) -- 
+
+	![Seven](img/SecTheHum/Seven.jpg "วัยรุ่นสร้างภูมิ - Seven")
+
+
 
 
 ## #วัยรุ่นสร้างภูมิ

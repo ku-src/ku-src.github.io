@@ -51,6 +51,7 @@
 	- [NOVA888](https://devpeeramate.github.io/board-game)
 	- [CSG](https://dreamchitlada.github.io/Boardgame)
 	- [God menu](https://jis03.github.io/boardgame)
+	- [Seven](#)
 
 <a name="lecturer"></a>
 ### **Lecturer**
