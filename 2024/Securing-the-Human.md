@@ -64,6 +64,8 @@
 
 + [The Standard](https://waterondaway.github.io/boardgame) -- นิสิตชั้นปีที่ 2 สาขาวิทยาการคอมพิวเตอร์
 
+	![The Standard](img/SecTheHum/The-Standard.png "วัยรุ่นสร้างภูมิ - The Standard")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
