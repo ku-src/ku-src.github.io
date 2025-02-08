@@ -62,7 +62,7 @@
 
 	![Seven](img/SecTheHum/Seven.jpg "วัยรุ่นสร้างภูมิ - Seven")
 
-
++ [The Standard](https://waterondaway.github.io/boardgame) -- นิสิตชั้นปีที่ 2 สาขาวิทยาการคอมพิวเตอร์
 
 
 ## #วัยรุ่นสร้างภูมิ
