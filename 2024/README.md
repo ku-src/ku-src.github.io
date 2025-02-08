@@ -52,6 +52,7 @@
 	- [CSG](https://dreamchitlada.github.io/Boardgame)
 	- [God menu](https://jis03.github.io/boardgame)
 	- [Seven](#)
+	- [The Standard](https://waterondaway.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
