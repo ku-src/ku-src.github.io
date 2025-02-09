@@ -56,6 +56,7 @@
 	- [God menu](https://jis03.github.io/boardgame)
 	- [Seven](#)
 	- [The Standard](https://waterondaway.github.io/boardgame)
+	- [Habung](https://auksaraaa.github.io/board-games)
 
 <a name="lecturer"></a>
 ### **Lecturer**
