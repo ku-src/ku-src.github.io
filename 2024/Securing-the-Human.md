@@ -66,6 +66,10 @@
 
 	![The Standard](img/SecTheHum/The-Standard.png "วัยรุ่นสร้างภูมิ - The Standard")
 
++ [Habung](https://auksaraaa.github.io/board-games) -- พี่ยาม
+
+	![Habung](img/SecTheHum/Habung.jpg "วัยรุ่นสร้างภูมิ - Habung")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
