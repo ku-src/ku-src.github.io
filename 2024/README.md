@@ -34,7 +34,7 @@
 
 - (Sat) **Feb 15**, 2025 (AM, PM) - **Session 11** & **12**
 
-	[![](img/2025-02-15_Session11-12.jpg "Session 11 & 12")](https://www.facebook.com/photo?fbid=10232280357245475)
+	[![](img/2025-02-15_Session11-12.jpg "Session 11 & 12")](https://www.facebook.com/maeklong/posts/10232280358085496)
 
 - (Sat) **Feb 22**, 2025 - **Extra** (PM) via Google Meet
 - (Sat) **Mar 1**, 2025 - **Session 13** (PM) via Google Meet
