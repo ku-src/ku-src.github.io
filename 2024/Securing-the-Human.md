@@ -72,7 +72,7 @@
 
 + [lnwza007](https://witchapolinaksorn.github.io/board-game)
 
-
+	![lnwza007](img/SecTheHum/lnwza007.jpg "วัยรุ่นสร้างภูมิ - lnwza007")
 
 
 ## #วัยรุ่นสร้างภูมิ
