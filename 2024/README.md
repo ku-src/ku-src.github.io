@@ -55,7 +55,7 @@
 	- [NOVA888](https://devpeeramate.github.io/board-game)
 	- [CSG](https://dreamchitlada.github.io/Boardgame)
 	- [God menu](https://jis03.github.io/boardgame)
-	- [Seven](#)
+	- [Seven](https://wilaiphan.github.io/boardgame-seven)
 	- [The Standard](https://waterondaway.github.io/boardgame)
 	- [Habung](https://auksaraaa.github.io/board-games)
 	- [lnwza007](https://witchapolinaksorn.github.io/board-game)
