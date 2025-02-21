@@ -31,7 +31,6 @@
 	[![](img/2025-01-25_Session8-9.jpg "Session 8 & 9")](https://www.facebook.com/maeklong/posts/10232145315709521)
 
 - (Sat) **Feb 8**, 2025 - **Session 10** (AM: [**1st half**](https://youtu.be/Hc-dUWWHiCY) & [**2nd half**](https://youtu.be/gptfUFRLpr0)) via Google Meet
-
 - (Sat) **Feb 15**, 2025 (AM, PM) - **Session 11** & **12**
 
 	[![](img/2025-02-15_Session11-12.jpg "Session 11 & 12")](https://www.facebook.com/maeklong/posts/10232280358085496)
