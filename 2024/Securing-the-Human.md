@@ -58,7 +58,7 @@
 
 	![God menu](img/SecTheHum/God-menu.jpg "วัยรุ่นสร้างภูมิ - God menu")
 
-+ [Seven](#) -- 
++ [Seven](https://wilaiphan.github.io/boardgame-seven) -- 
 
 	![Seven](img/SecTheHum/Seven.jpg "วัยรุ่นสร้างภูมิ - Seven")
 
