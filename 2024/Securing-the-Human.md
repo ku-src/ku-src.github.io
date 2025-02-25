@@ -70,7 +70,7 @@
 
 	![Habung](img/SecTheHum/Habung.jpg "วัยรุ่นสร้างภูมิ - Habung")
 
-+ [lnwza007](https://witchapolinaksorn.github.io/board-game) -- บุคลากร | งานบริการและพัฒนาคุณภาพการศึกษา
++ [lnwza007](https://witchapolinaksorn.github.io/board-game) -- บุคลากร งานบริการและพัฒนาคุณภาพการศึกษา
 
 	![lnwza007](img/SecTheHum/lnwza007.jpg "วัยรุ่นสร้างภูมิ - lnwza007")
 
