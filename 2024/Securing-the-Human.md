@@ -74,6 +74,10 @@
 
 	![lnwza007](img/SecTheHum/lnwza007.jpg "วัยรุ่นสร้างภูมิ - lnwza007")
 
++ [BuyBye](https://professerswitch.github.io/boardgame "วัยรุ่นสร้างภูมิ - BuyBye") -- ป้าแม้บ้าน รักษาความสะอาด
+
+	![BuyBye](img/SecTheHum/BuyBye.png "วัยรุ่นสร้างภูมิ - BuyBye")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
