@@ -58,7 +58,7 @@
 
 	![God menu](img/SecTheHum/God-menu.jpg "วัยรุ่นสร้างภูมิ - God menu")
 
-+ [Seven](https://wilaiphan.github.io/boardgame-seven) -- 
++ [Seven](https://wilaiphan.github.io/boardgame-seven) -- น้องเนม น้องแนน น้องแวน
 
 	![Seven](img/SecTheHum/Seven.jpg "วัยรุ่นสร้างภูมิ - Seven")
 
@@ -70,7 +70,7 @@
 
 	![Habung](img/SecTheHum/Habung.jpg "วัยรุ่นสร้างภูมิ - Habung")
 
-+ [lnwza007](https://witchapolinaksorn.github.io/board-game)
++ [lnwza007](https://witchapolinaksorn.github.io/board-game) -- บุคลากร | งานบริการและพัฒนาคุณภาพการศึกษา
 
 	![lnwza007](img/SecTheHum/lnwza007.jpg "วัยรุ่นสร้างภูมิ - lnwza007")
 
@@ -78,6 +78,9 @@
 
 	![BuyBye](img/SecTheHum/BuyBye.png "วัยรุ่นสร้างภูมิ - BuyBye")
 
++ [AudAud007](https://ponyakorn.github.io/boardgame "วัยรุ่นสร้างภูมิ - AudAud007") -- นักศึกษาสาขาวิศวกรรมอุตสาหการและระบบ
+
+	![AudAud007](img/SecTheHum/AudAud007.jpg "วัยรุ่นสร้างภูมิ - AudAud007")
 
 ## #วัยรุ่นสร้างภูมิ
 
