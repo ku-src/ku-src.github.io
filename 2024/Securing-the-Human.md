@@ -122,5 +122,5 @@
 
 ![JapJapzaTaluiLok & BuyBye](img/SecTheHum/JapJapzaTaluilok_BuyBye.jpg "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok & BuyBye")
 
-![BuyBye & AuddAudd007](img/SecTheHum/BuyBye_to_AuddAudd007.jpg "วัยรุ่นสร้างภูมิ - BuyBye & AuddAudd007")
+![BuyBye & AudAud007](img/SecTheHum/BuyBye_to_AudAud007.jpg "วัยรุ่นสร้างภูมิ - BuyBye & AudAud007")
  
