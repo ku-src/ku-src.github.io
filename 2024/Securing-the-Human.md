@@ -82,6 +82,11 @@
 
 	![AudAud007](img/SecTheHum/AudAud007.jpg "วัยรุ่นสร้างภูมิ - AudAud007")
 
++ [JapJapzaTaluiLok](https://pattaravut.github.io/boardgame "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok") -- นิสิตคณะเศรษฐศาสตร์
+
+	![JapJapzaTaluiLok](img/SecTheHum/JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok")
+
+
 ## #วัยรุ่นสร้างภูมิ
 
 ![Kaprao Mhookrob Kaidao & Khaophat Kung](img/SecTheHum/Kaprao-Mhookrob-Kaidao_to_Khaophat-Kung.jpg "วัยรุ่นสร้างภูมิ - Kaprao Mhookrob Kaidao & Khaophat Kung")

@@ -63,6 +63,7 @@
 - [lnwza007](https://witchapolinaksorn.github.io/board-game)
 - [BuyBye](https://professerswitch.github.io/boardgame)
 - [AudAud007](https://ponyakorn.github.io/boardgame)
+- [JapJapzaTaluiLok](https://pattaravut.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
