@@ -34,14 +34,13 @@
 - (Sat) **Feb 15**, 2025 (AM, PM) - **Session 11** & **12**
 
 	[![](img/2025-02-15_Session11-12.jpg "Session 11 & 12")](https://www.facebook.com/maeklong/posts/10232280358085496)
-
 	- Khun **Wanasan Srisroy**
 	- Khun **Pirom Nontarach**
 
 
 - (Sat) **Feb 22**, 2025 - **Session 13** (AM: [**link**](https://youtu.be/wE-V0ETXJjI)) via Google Meet
 
-- (Sat) **Mar 1**, 2025 - **Session 14** (AM) via Google Meet
+- (Sat) **Mar 1**, 2025 - **Session 14 - Career Guidance** (AM: [**link**](https://youtu.be/rp6vGMbZFhk)) via Google Meet
 	- Khun **Angkarn Pummarin**
 	- Khun **Chonlatit Rujiphut**
 	- Khun **Jedsada Thongkanluang**
