@@ -90,8 +90,8 @@
 	- Mar 1, 2025
 		- Khun **Angkarn Pummarin**
 		- Khun **Chonlatit Rujiphut**
-		- Khun **Ekachai Suwannalai**
 		- Khun **Jedsada Thongkanluang**
+		- Khun **Ekachai Suwannalai**
 
 ### **Students**
 
