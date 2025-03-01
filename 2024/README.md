@@ -84,10 +84,10 @@
 
 <a name="guests"></a>
 - **Guest[s]**
-	- HPE Aruba Networking (Feb 15, 2025)
+	- Feb 15, 2025
 		- Khun **Wanasan Srisroy**
 		- Khun **Pirom Nontarach**
-	- T-NET IT Solution (Feb 22, 2025)
+	- Mar 1, 2025
 		- Khun **Angkarn Pummarin**
 		- Khun **Chonlatit Rujiphut**
 		- Khun **Ekachai Suwannalai**
