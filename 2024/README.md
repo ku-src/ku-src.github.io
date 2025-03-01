@@ -40,7 +40,7 @@
 
 - (Sat) **Feb 22**, 2025 - **Session 13** (AM: [**link**](https://youtu.be/wE-V0ETXJjI)) via Google Meet
 
-- (Sat) **Mar 1**, 2025 - **Session 14 - Career Guidance** (AM: [**link**](https://youtu.be/rp6vGMbZFhk)) via Google Meet
+- (Sat) **Mar 1**, 2025 - **Session 14** (AM: [**Linux Command**](https://youtu.be/nHOJikWOTGY), [**Career Guidance**](https://youtu.be/rp6vGMbZFhk)) via Google Meet
 	- Khun **Angkarn Pummarin**
 	- Khun **Chonlatit Rujiphut**
 	- Khun **Jedsada Thongkanluang**
