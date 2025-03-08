@@ -73,6 +73,7 @@
 - [BuyBye](https://professerswitch.github.io/boardgame)
 - [AudAud007](https://ponyakorn.github.io/boardgame)
 - [JapJapzaTaluiLok](https://pattaravut.github.io/boardgame)
+- [Dynamic V](https://6430200442.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**

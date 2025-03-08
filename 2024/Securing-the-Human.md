@@ -86,6 +86,10 @@
 
 	![JapJapzaTaluiLok](img/SecTheHum/JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok")
 
++ [Dynamic V](https://6430200442.github.io/boardgame) --
+	
+	![Dynamic V](img/SecTheHum/Dynamic-V.jpg "วัยรุ่นสร้างภูมิ - Dynamic V")
+
 
 ## #วัยรุ่นสร้างภูมิ
 
