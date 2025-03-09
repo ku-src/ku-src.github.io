@@ -94,6 +94,9 @@
 
 	![Smek Nah Moan](img/SecTheHum/Smeg.jpg "วัยรุ่นสร้างภูมิ - Smek Nah Moan")
 
++ [Khaophat Kung](https://6530200851.github.io/boardgame)
+
+	![Khaophat Kung](img/SecTheHum/Khaophat-Kung.jpg "วัยรุ่นสร้างภูมิ - Khaophat Kung")
 
 
 ## #วัยรุ่นสร้างภูมิ

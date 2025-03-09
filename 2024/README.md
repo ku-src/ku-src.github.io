@@ -75,6 +75,7 @@
 - [JapJapzaTaluiLok](https://pattaravut.github.io/boardgame)
 - [Dynamic V](https://6430200442.github.io/boardgame)
 - [Smek Nah Moan](https://deldel-p.github.io/board-game)
+- [Khaophat Kung](https://6530200851.github.io/boardgame)
 
 <a name="lecturer"></a>
 ### **Lecturer**
