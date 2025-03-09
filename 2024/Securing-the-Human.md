@@ -92,7 +92,7 @@
 
 + [Smek Nah Moan](https://deldel-p.github.io/board-game)
 
-	![Dynamic V](img/SecTheHum/Smeg.jpg "วัยรุ่นสร้างภูมิ - Dynamic V")
+	![Smek Nah Moan](img/SecTheHum/Smeg.jpg "วัยรุ่นสร้างภูมิ - Smek Nah Moan")
 
 
 
