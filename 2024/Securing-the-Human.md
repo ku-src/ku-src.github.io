@@ -86,13 +86,13 @@
 
 	![JapJapzaTaluiLok](img/SecTheHum/JapJapzaTaluiLok.jpg "วัยรุ่นสร้างภูมิ - JapJapzaTaluiLok")
 
-+ [Dynamic V](https://6430200442.github.io/boardgame) --
++ [Dynamic V](https://6430200442.github.io/boardgame) 
 	
 	![Dynamic V](img/SecTheHum/Dynamic-V.jpg "วัยรุ่นสร้างภูมิ - Dynamic V")
 
-+ [Smek Nah Moan](https://deldel-p.github.io/board-game) --
++ [Smek Nah Moan](https://deldel-p.github.io/board-game)
 
-Smek Nah Moan
+	![Dynamic V](img/SecTheHum/Smeg.jpg "วัยรุ่นสร้างภูมิ - Dynamic V")
 
 
 
