@@ -90,6 +90,11 @@
 	
 	![Dynamic V](img/SecTheHum/Dynamic-V.jpg "วัยรุ่นสร้างภูมิ - Dynamic V")
 
++ [Smek Nah Moan](https://deldel-p.github.io/board-game) --
+
+Smek Nah Moan
+
+
 
 ## #วัยรุ่นสร้างภูมิ
 

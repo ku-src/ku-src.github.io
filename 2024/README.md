@@ -74,6 +74,7 @@
 - [AudAud007](https://ponyakorn.github.io/boardgame)
 - [JapJapzaTaluiLok](https://pattaravut.github.io/boardgame)
 - [Dynamic V](https://6430200442.github.io/boardgame)
+- [Smek Nah Moan](https://deldel-p.github.io/board-game)
 
 <a name="lecturer"></a>
 ### **Lecturer**
