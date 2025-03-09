@@ -1,4 +1,4 @@
-# Securing the Human 
+# Securing the Human (วัยรุ่นสร้างภูมิ)
 
 ![First 3 teams](img/SecTheHum/2024-12-21_first3teams.jpg "วัยรุ่นสร้างภูมิ - Securing the Human")
 
