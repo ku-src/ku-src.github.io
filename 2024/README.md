@@ -49,6 +49,9 @@
 
 - (Sat) **Mar 8**, 2025 (AM) - **Session 15**
 
+	[![](img/2025-03-08_Session15.png "Session 15")](https://www.facebook.com/maeklong/posts/10232539707249063)
+	
+
 <a name="SecuringTheHuman"></a>
 ### [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
 
