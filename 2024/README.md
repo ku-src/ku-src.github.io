@@ -50,7 +50,7 @@
 - (Sat) **Mar 8**, 2025 (AM) - **Session 15**
 
 	[![](img/2025-03-08_Session15.png "Session 15")](https://www.facebook.com/maeklong/posts/10232539707249063)
-	
+
 
 <a name="SecuringTheHuman"></a>
 ### [**Securing the Human**](Securing-the-Human) #วัยรุ่นสร้างภูมิ
@@ -269,6 +269,7 @@
 
 <a name="references"></a>
 ### **References**
+- [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
 - [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
 	- [NCSA x ISC2](https://ncsa.or.th/ncsaandisc.html) - [1MCC](https://www.isc2.org/landing/1mcc) Partner Program
@@ -278,7 +279,6 @@
 - NIST - [SP 800-57 Part 1 Rev. 5 - Recommendation for Key Management: Part 1 – General](https://csrc.nist.rip/publications/detail/sp/800-57-part-1/rev-5/final)
 - [Security Engineering — 3rd Edition](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 - [The Intelligence Handbook](https://go.recordedfuture.com/the-intelligence-handbook-fourth-edition)
-- [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
 - [AWS Crypto Tools](https://docs.aws.amazon.com/aws-crypto-tools/)
 - [Developing Secure Software (LFD121)](https://training.linuxfoundation.org/training/developing-secure-software-lfd121/)
 - [CNAPP For Dummies](https://ftnt.net/6014SaqQM)
