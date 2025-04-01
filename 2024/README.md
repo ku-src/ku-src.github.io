@@ -102,11 +102,14 @@
 	- Feb 15, 2025
 		- Khun **Wanasan Srisroy**
 		- Khun **Pirom Nontarach**
+		- Khun **Sahaparp Thaesungnern**
 	- Mar 1, 2025
 		- Khun **Angkarn Pummarin**
 		- Khun **Chonlatit Rujiphut**
 		- Khun **Jedsada Thongkanluang**
 		- Khun **Ekachai Suwannalai**
+	- Mar 31, 2025
+		- **AVM Amorn Chomchoey**
 
 ### **Students**
 
