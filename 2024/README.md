@@ -92,7 +92,7 @@
 	- Modern Certified Classroom Trainer (MCCT) – Logical Operations
 	- CIW – Certified Instructor (CI)
 	- CAI – CertNexus Authorized Instructor
-	- Linux Professiona Institute (LPI) - Approved Trainer
+	- Linux Professional Institute (LPI) - Approved Trainer
 	- ETDA Digital Citizen (EDC) Trainer
 	- Media Literacy Expert – Thai Media Fund
 	- Security Awareness Specialist – Proofpoint
