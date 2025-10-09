@@ -3,7 +3,7 @@
 + [[2025](2025)] - [01418496 - Selected Topic in Computer Science (เรื่องเฉพาะทางวิทยาการคอมพิวเตอร์)](2025)
 + [[2024](2024)] - [01418332 - Information Systems Security (ความมั่นคงในระบบสารสนเทศ)](2024)
 
-# More info.
+# More info. 
 * Email(s)
 	- [maykin@owasp.org](mailto:maykin@owasp.org)
 	- [maykin@ieee.org](mailto:maykin@ieee.org)
