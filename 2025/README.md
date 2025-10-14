@@ -4,7 +4,7 @@
 - Operating System (01418236)
 
 ### **Hybrid Class**
-- #XXXXX, [Google Meet](https://meet.google.com/) & [Google Classroom](#)
+- #XXXXX, [Google Meet](https://meet.google.com/) & [Google Classroom](#) 
 
 ### **Time**
 - 09:00 - 12:00 [and|or] 13:00 - 16:00
