@@ -1,5 +1,6 @@
 # Maykin Warasart's Course[s]
 
++ [[2026](2026)] - [01418496 - Selected Topic in Computer Science (เรื่องเฉพาะทางวิทยาการคอมพิวเตอร์)](2026)
 + [[2024](2024)] - [01418332 - Information Systems Security (ความมั่นคงในระบบสารสนเทศ)](2024)
 
 # More info. 

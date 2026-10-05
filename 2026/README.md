@@ -1,8 +1,5 @@
 # 01418496 - Selected Topic in Computer Science
 
-### **Pre-requisite**
-- Operating System (01418236)
-
 ### **Hybrid Class**
 - #XXXXX, [Google Meet](https://meet.google.com/) & [Google Classroom](#) 
 
