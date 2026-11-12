@@ -63,6 +63,7 @@ TBA
 
 <a name="references"></a>
 ### **References**
+- [Security Update Guide, Microsoft](https://msrc.microsoft.com/update-guide/vulnerability)
 - [Security Essentials](https://learning.lpi.org/en/learning-materials/020-100/) - LPI
 - [Software Engineering Body of Knowledge (SWEBOK)](https://www.computer.org/education/bodies-of-knowledge/software-engineering)
 - [Certified in Cybersecurity (CC) from ISC2](https://www.isc2.org/certifications/cc)
